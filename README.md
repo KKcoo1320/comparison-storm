@@ -14,6 +14,8 @@ Minimal comparison workspace for running original STORM and a LangGraph-based ST
   - Small helper to compare output presence and rough size statistics.
 - `results/Taylor_Hawkins_compare.json`
   - Current comparison summary for the `Taylor_Hawkins` topic.
+- `results/Taylor_Hawkins_proxy_outline_eval.json`
+  - A lightweight proxy evaluation for outline quality on `Taylor_Hawkins`.
 
 ## Experiment setup
 
@@ -29,6 +31,7 @@ From `results/Taylor_Hawkins_compare.json`:
 
 - Original STORM produced a longer article and consumed more retrieved evidence.
 - LangGraph STORM completed successfully on the same local text, but currently remains lighter-weight than the original pipeline.
+- A lightweight proxy outline evaluation shows similar soft heading recall, while original STORM currently retains better heading-level entity coverage on this single topic.
 
 ## Current numbers
 
@@ -46,6 +49,29 @@ From `results/Taylor_Hawkins_compare.json`:
     "outline_exists": true,
     "article_exists": true,
     "search_result_items": 18
+  }
+}
+```
+
+## Proxy outline metrics
+
+These are not the original paper's exact 4.4 metric outputs. They are lightweight proxy metrics used because the full original metric stack hit local runtime issues in the current environment.
+
+```json
+{
+  "topic": "Taylor_Hawkins",
+  "proxy_metrics": {
+    "storm": {
+      "heading_soft_recall_proxy": 0.5023334547203385,
+      "heading_entity_recall_proxy": 0.2222222222222222,
+      "num_headings": 48
+    },
+    "storm_langgraph": {
+      "heading_soft_recall_proxy": 0.49915638315627203,
+      "heading_entity_recall_proxy": 0.1111111111111111,
+      "num_headings": 18
+    },
+    "gold_num_headings": 10
   }
 }
 ```

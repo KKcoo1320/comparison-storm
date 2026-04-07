@@ -1,0 +1,16 @@
+{
+  "topic": "Taylor_Hawkins",
+  "proxy_metrics": {
+    "storm": {
+      "heading_soft_recall_proxy": 0.5023334547203385,
+      "heading_entity_recall_proxy": 0.2222222222222222,
+      "num_headings": 48
+    },
+    "storm_langgraph": {
+      "heading_soft_recall_proxy": 0.49915638315627203,
+      "heading_entity_recall_proxy": 0.1111111111111111,
+      "num_headings": 18
+    },
+    "gold_num_headings": 10
+  }
+}
