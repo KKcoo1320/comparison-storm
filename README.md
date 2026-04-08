@@ -16,6 +16,32 @@ Minimal comparison workspace for running original STORM and a LangGraph-based ST
   - Current comparison summary for the `Taylor_Hawkins` topic.
 - `results/Taylor_Hawkins_proxy_outline_eval.json`
   - A lightweight proxy evaluation for outline quality on `Taylor_Hawkins`.
+- `results/freshwiki_5_summary.md`
+  - A 5-topic comparison summary covering both original STORM and `storm-langgraph`.
+- `results/freshwiki_5/`
+  - Raw outputs for the 5-topic FreshWiki batch from both systems.
+
+## FreshWiki 5-topic batch
+
+The current multi-topic batch covers:
+
+- `Taylor_Hawkins`
+- `Lahaina,_Hawaii`
+- `Silicon_Valley_Bank`
+- `OceanGate`
+- `Threads_(social_network)`
+
+Entry points:
+
+- Summary: `results/freshwiki_5_summary.md`
+- Original STORM outputs: `results/freshwiki_5/storm/`
+- `storm-langgraph` outputs: `results/freshwiki_5/storm_langgraph/`
+
+Current high-level result:
+
+- Both systems completed all 5 topics.
+- In the current configuration, original STORM generated longer articles and more expanded outlines.
+- This batch is still not a strict apples-to-apples benchmark because the model configuration was not fully aligned between the two systems.
 
 ## Experiment setup
 

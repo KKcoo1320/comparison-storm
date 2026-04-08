@@ -1,0 +1,53 @@
+# summary
+
+Silicon Valley Bank (SVB) was a prominent commercial bank that primarily catered to the technology and innovation sectors, becoming the largest bank by deposits in Silicon Valley and a key financial partner for nearly half of all venture-backed tech startups. Founded in 1983, SVB experienced significant growth until its collapse in March 2023, triggered by a bank run following a series of interest rate hikes during an inflation surge. The bank's failure led to the establishment of a bridge bank and its eventual acquisition by First Citizens Bank & Trust Company, highlighting the vulnerabilities within the banking sector and prompting discussions on regulatory reforms.
+
+# 1. Introduction
+
+## 1.1 Overview of Silicon Valley Bank
+
+Silicon Valley Bank (SVB) is a commercial bank that primarily serves the technology and innovation sectors. Originally a subsidiary of SVB Financial Group, it became a prominent financial institution in the San Francisco Bay Area, offering tailored banking services to meet the unique needs of tech companies and startups. At its peak, SVB was the largest bank by deposits in Silicon Valley and was the preferred banking partner for nearly half of all venture-backed tech startups in the region [1]. However, in March 2023, following a series of interest rate hikes endorsed by central banks during the inflation surge from 2021 to 2023, SVB experienced a significant bank run, leading to its collapse and subsequent seizure by the California Department of Financial Protection and Innovation on March 10, 2023 [1]. Following this event, a bridge bank, Silicon Valley Bridge Bank, N.A., was established to take over ongoing operations, and on March 27, 2023, First Citizens Bank & Trust Company acquired all customer deposits and loans from the bridge bank, continuing to operate SVB's branches [1].
+
+# 2. History
+
+## 2.1 Founding and Early Years
+
+Silicon Valley Bank (SVB) was founded in 1983 in Santa Clara, California, primarily to serve the financial needs of the burgeoning technology sector in Silicon Valley. As a commercial bank, it quickly established itself as a key player in providing banking services tailored to the unique requirements of startups and venture capital firms. By focusing on the tech industry, SVB became the largest bank by deposits in Silicon Valley and gained a reputation as the preferred banking partner for nearly half of all venture-backed tech startups in the region [1].
+
+## 2.2 Growth and Expansion
+
+Throughout the 1990s and 2000s, SVB expanded its operations significantly, opening offices in various U.S. states and establishing a presence in multiple international markets. The bank's growth was fueled by the increasing demand for financial services from technology companies, particularly during the dot-com boom. SVB's innovative approach to banking, which included specialized lending and investment services, allowed it to maintain a competitive edge in the rapidly evolving tech landscape [1].
+
+## 2.3 Key Milestones Leading to Collapse
+
+The bank's trajectory took a dramatic turn in March 2023, when a combination of central bank–endorsed interest rate hikes during the inflation surge of 2021–2023 precipitated a bank run on its deposits. This sudden loss of confidence among depositors led to the collapse of SVB on March 10, 2023, prompting the California Department of Financial Protection and Innovation (DFPI) to seize control of the bank. Subsequently, a bridge bank, Silicon Valley Bridge Bank, N.A., was established to manage ongoing business operations. On March 27, 2023, First Citizens Bank & Trust Company acquired all customer deposits and loans of Silicon Valley Bridge Bank, effectively taking over the operations of SVB branches [1].
+
+# 3. Business Model
+
+## 3.1 Target Market
+
+Silicon Valley Bank (SVB) primarily targeted the technology and innovation sectors, catering to startups and venture capital firms. It became the preferred banking partner for nearly half of all venture-backed tech startups in the United States, particularly in the San Francisco Bay Area. SVB's focus on this niche market allowed it to develop specialized financial products and services tailored to the unique needs of tech companies, including lending, treasury management, and investment banking services [1].
+
+## 3.2 Revenue Streams
+
+SVB generated revenue through a variety of streams, including interest income from loans, fees for banking services, and investment income. The bank's loan portfolio was primarily composed of loans to startups and growth-stage companies, which often had higher interest rates compared to traditional banking clients. Additionally, SVB charged fees for services such as treasury management and foreign exchange, further diversifying its revenue sources [1].
+
+## 3.3 Risk Management Strategies
+
+To mitigate risks associated with its concentrated exposure to the tech sector, SVB employed several risk management strategies. These included rigorous credit assessments for borrowers, maintaining a diversified loan portfolio across various industries, and implementing stress testing to evaluate the potential impact of economic downturns. However, the bank faced significant challenges during the 2021–2023 inflation surge, which led to increased interest rates and ultimately contributed to a bank run in March 2023, resulting in its collapse [1].
+
+# 4. Services Offered
+
+Silicon Valley Bank (SVB) specialized in providing a range of financial services tailored to the needs of technology and life sciences companies, startups, and venture capital firms. The bank's offerings can be categorized into three main areas: banking services, investment services, and specialized financial products.
+
+## 4.1 Banking Services
+
+SVB provided traditional banking services, including commercial banking, treasury and cash management, and lending solutions. Its banking services were designed to support the unique cash flow needs of tech companies, offering lines of credit, equipment financing, and working capital loans. The bank also facilitated deposit accounts, enabling clients to manage their funds efficiently while benefiting from competitive interest rates tailored for business accounts [1].
+
+## 4.2 Investment Services
+
+In addition to banking, SVB offered investment services that included venture capital and private equity investment opportunities. The bank was known for its deep connections within the startup ecosystem, allowing it to provide clients with access to a network of investors and funding sources. SVB also managed investment funds focused on technology and life sciences, helping clients navigate the complexities of raising capital and scaling their businesses [1].
+
+## 4.3 Specialized Financial Products
+
+SVB developed specialized financial products to cater to the unique challenges faced by startups and high-growth companies. These products included foreign exchange services, asset-based lending, and customized financing

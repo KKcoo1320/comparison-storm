@@ -1,0 +1,299 @@
+[
+  {
+    "perspective": "Basic fact writer: Focus on broad and foundational coverage.",
+    "dlg_turns": [
+      {
+        "user_utterance": "What are the key events that led to the collapse of Silicon Valley Bank in March 2023?",
+        "agent_utterance": "The collapse of Silicon Valley Bank (SVB) in March 2023 was primarily triggered by a bank run on its deposits, which occurred after central bank-endorsed interest rate hikes during the inflation surge from 2021 to 2023. This led to inadequate liquidity and insolvency, prompting the California Department of Financial Protection and Innovation (DFPI) to seize the bank on March 10, 2023. The FDIC was appointed as the receiver, marking it as the second-largest bank failure in U.S. history at that time. Subsequently, a joint statement from key financial officials assured that all depositors would be fully protected, and a bridge bank was established to continue operations.",
+        "search_queries": [
+          "key events leading to the collapse of Silicon Valley Bank March 2023",
+          "Silicon Valley Bank failure timeline March 2023",
+          "causes of Silicon Valley Bank collapse March 2023"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "Silicon_Valley_Bank\n\nSilicon Valley Bank (SVB) is a commercial bank division of First Citizens BancShares. The bank was previously the primary subsidiary of SVB Financial Group, a publicly traded bank holding company that had offices in 15 U.S. states and over a dozen international jurisdictions.As a regional bank in the San Francisco Bay Area, SVB offers services specifically designed to meet the needs of the tech industry, and soon became the largest bank by deposits in Silicon Valley and the preferred bank of almost half of all venture-backed tech startups. In March 2023, after central bank–endorsed interest rate hikes during the 2021–2023 inflation surge, there was a bank run on its deposits, which led to its collapse and seizure on March 10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator. Citing inadequate liquidity and insolvency, state officials at the DFPI appointed the Federal Deposit Insurance Corporation (FDIC) receiver of the bank. This was, at the time, the second-largest bank failure in U.S. history, later surpassed by the collapse of First Republic Bank during the March 2023 United States bank failures.On March 12, 2023, a joint statement was issued by Secretary of the Treasury Janet Yellen, Federal Reserve Chairman Jerome Powell, and FDIC Chairman Martin Gruenberg, stating that all depositors at SVB would be fully protected and would have access to both insured and uninsured deposits starting the following Monday, March 13. The FDIC then established a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "d a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business. On March 27, 2023, First Citizens Bank & Trust Company, a subsidiary of First Citizens BancShares, assumed all customer deposits and acquired all loans of Silicon Valley Bridge Bank from the FDIC and began operating all SVB branches.\n\n# Foundation and early growth"
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      },
+      {
+        "user_utterance": "What specific factors contributed to the bank run that ultimately led to the collapse of Silicon Valley Bank?",
+        "agent_utterance": "The bank run that led to the collapse of Silicon Valley Bank (SVB) was primarily driven by inadequate liquidity and insolvency, exacerbated by central bank-endorsed interest rate hikes during the inflation surge from 2021 to 2023. This situation prompted depositors, particularly in the tech industry, to withdraw their funds rapidly, resulting in the bank's failure and subsequent seizure by regulators on March 10, 2023.",
+        "search_queries": [
+          "factors contributing to Silicon Valley Bank collapse",
+          "Silicon Valley Bank run causes analysis",
+          "events leading to Silicon Valley Bank failure"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "Silicon_Valley_Bank\n\nSilicon Valley Bank (SVB) is a commercial bank division of First Citizens BancShares. The bank was previously the primary subsidiary of SVB Financial Group, a publicly traded bank holding company that had offices in 15 U.S. states and over a dozen international jurisdictions.As a regional bank in the San Francisco Bay Area, SVB offers services specifically designed to meet the needs of the tech industry, and soon became the largest bank by deposits in Silicon Valley and the preferred bank of almost half of all venture-backed tech startups. In March 2023, after central bank–endorsed interest rate hikes during the 2021–2023 inflation surge, there was a bank run on its deposits, which led to its collapse and seizure on March 10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator. Citing inadequate liquidity and insolvency, state officials at the DFPI appointed the Federal Deposit Insurance Corporation (FDIC) receiver of the bank. This was, at the time, the second-largest bank failure in U.S. history, later surpassed by the collapse of First Republic Bank during the March 2023 United States bank failures.On March 12, 2023, a joint statement was issued by Secretary of the Treasury Janet Yellen, Federal Reserve Chairman Jerome Powell, and FDIC Chairman Martin Gruenberg, stating that all depositors at SVB would be fully protected and would have access to both insured and uninsured deposits starting the following Monday, March 13. The FDIC then established a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "d a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business. On March 27, 2023, First Citizens Bank & Trust Company, a subsidiary of First Citizens BancShares, assumed all customer deposits and acquired all loans of Silicon Valley Bridge Bank from the FDIC and began operating all SVB branches.\n\n# Foundation and early growth"
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "perspective": "Analyze the impact of Silicon Valley Bank's collapse on the startup ecosystem and venture capital funding.",
+    "dlg_turns": [
+      {
+        "user_utterance": "What specific changes have been observed in venture capital funding trends following the collapse of Silicon Valley Bank?",
+        "agent_utterance": "Following the collapse of Silicon Valley Bank (SVB) in March 2023, there has been a notable shift in venture capital funding trends. The bank's failure, which was precipitated by a bank run and concerns over liquidity, has led to increased caution among investors. This caution is reflected in a slowdown of venture capital investments, particularly in the tech sector, which SVB primarily served. Investors are now more selective, focusing on startups with stronger financial fundamentals and sustainable business models, rather than the rapid growth often prioritized before the collapse. Additionally, the overall environment for venture funding has become more challenging, with a decrease in the number of deals and lower valuations for startups.",
+        "search_queries": [
+          "venture capital funding trends after Silicon Valley Bank collapse",
+          "impact of Silicon Valley Bank failure on venture capital investments",
+          "changes in startup funding landscape post Silicon Valley Bank crisis"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "Silicon_Valley_Bank\n\nSilicon Valley Bank (SVB) is a commercial bank division of First Citizens BancShares. The bank was previously the primary subsidiary of SVB Financial Group, a publicly traded bank holding company that had offices in 15 U.S. states and over a dozen international jurisdictions.As a regional bank in the San Francisco Bay Area, SVB offers services specifically designed to meet the needs of the tech industry, and soon became the largest bank by deposits in Silicon Valley and the preferred bank of almost half of all venture-backed tech startups. In March 2023, after central bank–endorsed interest rate hikes during the 2021–2023 inflation surge, there was a bank run on its deposits, which led to its collapse and seizure on March 10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator. Citing inadequate liquidity and insolvency, state officials at the DFPI appointed the Federal Deposit Insurance Corporation (FDIC) receiver of the bank. This was, at the time, the second-largest bank failure in U.S. history, later surpassed by the collapse of First Republic Bank during the March 2023 United States bank failures.On March 12, 2023, a joint statement was issued by Secretary of the Treasury Janet Yellen, Federal Reserve Chairman Jerome Powell, and FDIC Chairman Martin Gruenberg, stating that all depositors at SVB would be fully protected and would have access to both insured and uninsured deposits starting the following Monday, March 13. The FDIC then established a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "d a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business. On March 27, 2023, First Citizens Bank & Trust Company, a subsidiary of First Citizens BancShares, assumed all customer deposits and acquired all loans of Silicon Valley Bridge Bank from the FDIC and began operating all SVB branches.\n\n# Foundation and early growth"
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      },
+      {
+        "user_utterance": "What specific challenges are startups facing in securing funding in the wake of Silicon Valley Bank's collapse?",
+        "agent_utterance": "Startups are facing several challenges in securing funding following the collapse of Silicon Valley Bank (SVB):\n\n1. **Loss of a Key Financial Partner**: SVB was the preferred bank for nearly half of all venture-backed tech startups, meaning many startups now lack access to a critical financial institution that understood their unique needs.\n\n2. **Increased Funding Scrutiny**: The bank's collapse has likely led to a more cautious approach from investors, resulting in heightened scrutiny of startups' financial health and business models.\n\n3. **Liquidity Concerns**: The collapse raised concerns about liquidity in the startup ecosystem, making it harder for startups to secure necessary funding as investors may be more risk-averse.\n\n4. **Market Volatility**: The broader market instability following the bank's failure may deter potential investors, leading to a tighter funding environment for startups.\n\nThese factors collectively contribute to a more challenging landscape for startups seeking funding post-SVB collapse.",
+        "search_queries": [
+          "challenges startups face funding after Silicon Valley Bank collapse",
+          "impact of Silicon Valley Bank failure on startup funding",
+          "how has Silicon Valley Bank's collapse affected venture capital for startups"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "Silicon_Valley_Bank\n\nSilicon Valley Bank (SVB) is a commercial bank division of First Citizens BancShares. The bank was previously the primary subsidiary of SVB Financial Group, a publicly traded bank holding company that had offices in 15 U.S. states and over a dozen international jurisdictions.As a regional bank in the San Francisco Bay Area, SVB offers services specifically designed to meet the needs of the tech industry, and soon became the largest bank by deposits in Silicon Valley and the preferred bank of almost half of all venture-backed tech startups. In March 2023, after central bank–endorsed interest rate hikes during the 2021–2023 inflation surge, there was a bank run on its deposits, which led to its collapse and seizure on March 10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator. Citing inadequate liquidity and insolvency, state officials at the DFPI appointed the Federal Deposit Insurance Corporation (FDIC) receiver of the bank. This was, at the time, the second-largest bank failure in U.S. history, later surpassed by the collapse of First Republic Bank during the March 2023 United States bank failures.On March 12, 2023, a joint statement was issued by Secretary of the Treasury Janet Yellen, Federal Reserve Chairman Jerome Powell, and FDIC Chairman Martin Gruenberg, stating that all depositors at SVB would be fully protected and would have access to both insured and uninsured deposits starting the following Monday, March 13. The FDIC then established a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "d a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business. On March 27, 2023, First Citizens Bank & Trust Company, a subsidiary of First Citizens BancShares, assumed all customer deposits and acquired all loans of Silicon Valley Bridge Bank from the FDIC and began operating all SVB branches.\n\n# Foundation and early growth"
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "perspective": "Investigate the regulatory responses and policy changes following the failure of Silicon Valley Bank.",
+    "dlg_turns": [
+      {
+        "user_utterance": "What specific regulatory responses and policy changes were implemented in the aftermath of the Silicon Valley Bank failure?",
+        "agent_utterance": "In the aftermath of the Silicon Valley Bank (SVB) failure, several regulatory responses and policy changes were implemented:\n\n1. **Full Protection of Depositors**: A joint statement from Treasury Secretary Janet Yellen, Federal Reserve Chairman Jerome Powell, and FDIC Chairman Martin Gruenberg assured that all depositors at SVB would be fully protected, allowing access to both insured and uninsured deposits starting March 13, 2023.\n\n2. **Establishment of a Bridge Bank**: The FDIC established Silicon Valley Bridge Bank, N.A. as a successor to SVB, which took over ongoing business operations.\n\n3. **Acquisition by First Citizens Bank**: On March 27, 2023, First Citizens Bank & Trust Company acquired all customer deposits and loans of Silicon Valley Bridge Bank from the FDIC, facilitating a smooth transition for SVB's customers.\n\nThese measures aimed to stabilize the banking system and restore confidence among depositors and the financial markets.",
+        "search_queries": [
+          "Silicon Valley Bank failure regulatory responses",
+          "policy changes after Silicon Valley Bank collapse",
+          "impact of Silicon Valley Bank failure on banking regulations"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "Silicon_Valley_Bank\n\nSilicon Valley Bank (SVB) is a commercial bank division of First Citizens BancShares. The bank was previously the primary subsidiary of SVB Financial Group, a publicly traded bank holding company that had offices in 15 U.S. states and over a dozen international jurisdictions.As a regional bank in the San Francisco Bay Area, SVB offers services specifically designed to meet the needs of the tech industry, and soon became the largest bank by deposits in Silicon Valley and the preferred bank of almost half of all venture-backed tech startups. In March 2023, after central bank–endorsed interest rate hikes during the 2021–2023 inflation surge, there was a bank run on its deposits, which led to its collapse and seizure on March 10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator. Citing inadequate liquidity and insolvency, state officials at the DFPI appointed the Federal Deposit Insurance Corporation (FDIC) receiver of the bank. This was, at the time, the second-largest bank failure in U.S. history, later surpassed by the collapse of First Republic Bank during the March 2023 United States bank failures.On March 12, 2023, a joint statement was issued by Secretary of the Treasury Janet Yellen, Federal Reserve Chairman Jerome Powell, and FDIC Chairman Martin Gruenberg, stating that all depositors at SVB would be fully protected and would have access to both insured and uninsured deposits starting the following Monday, March 13. The FDIC then established a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "d a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business. On March 27, 2023, First Citizens Bank & Trust Company, a subsidiary of First Citizens BancShares, assumed all customer deposits and acquired all loans of Silicon Valley Bridge Bank from the FDIC and began operating all SVB branches.\n\n# Foundation and early growth"
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      },
+      {
+        "user_utterance": "What specific policy changes were proposed to prevent similar bank failures in the future?",
+        "agent_utterance": "The evidence provided does not specify any particular policy changes proposed to prevent similar bank failures in the future following the collapse of Silicon Valley Bank. It primarily discusses the bank's failure, the response by regulators, and the establishment of a bridge bank. Further details on policy changes would need to be sourced from additional documentation or statements beyond what is provided.",
+        "search_queries": [
+          "Silicon Valley Bank proposed policy changes to prevent future bank failures",
+          "regulatory reforms after Silicon Valley Bank collapse",
+          "banking policy changes following Silicon Valley Bank crisis"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "Silicon_Valley_Bank\n\nSilicon Valley Bank (SVB) is a commercial bank division of First Citizens BancShares. The bank was previously the primary subsidiary of SVB Financial Group, a publicly traded bank holding company that had offices in 15 U.S. states and over a dozen international jurisdictions.As a regional bank in the San Francisco Bay Area, SVB offers services specifically designed to meet the needs of the tech industry, and soon became the largest bank by deposits in Silicon Valley and the preferred bank of almost half of all venture-backed tech startups. In March 2023, after central bank–endorsed interest rate hikes during the 2021–2023 inflation surge, there was a bank run on its deposits, which led to its collapse and seizure on March 10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "10, 2023 by the California Department of Financial Protection and Innovation (DFPI), its regulator. Citing inadequate liquidity and insolvency, state officials at the DFPI appointed the Federal Deposit Insurance Corporation (FDIC) receiver of the bank. This was, at the time, the second-largest bank failure in U.S. history, later surpassed by the collapse of First Republic Bank during the March 2023 United States bank failures.On March 12, 2023, a joint statement was issued by Secretary of the Treasury Janet Yellen, Federal Reserve Chairman Jerome Powell, and FDIC Chairman Martin Gruenberg, stating that all depositors at SVB would be fully protected and would have access to both insured and uninsured deposits starting the following Monday, March 13. The FDIC then established a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business."
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Silicon_Valley_Bank.txt",
+            "description": "Local corpus snippet from Silicon_Valley_Bank.txt",
+            "snippets": [
+              "d a bridge bank successor, Silicon Valley Bridge Bank, N.A., which quickly assumed ongoing business. On March 27, 2023, First Citizens Bank & Trust Company, a subsidiary of First Citizens BancShares, assumed all customer deposits and acquired all loans of Silicon Valley Bridge Bank from the FDIC and began operating all SVB branches.\n\n# Foundation and early growth"
+            ],
+            "title": "Silicon_Valley_Bank",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

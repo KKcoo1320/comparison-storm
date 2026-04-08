@@ -1,0 +1,299 @@
+[
+  {
+    "perspective": "Basic fact writer: Focus on broad and foundational coverage.",
+    "dlg_turns": [
+      {
+        "user_utterance": "What are the key features that differentiate Threads from other social media platforms?",
+        "agent_utterance": "Threads differentiates itself from other social media platforms through several key features:\n\n1. **Integration with Instagram**: Users must have an Instagram account and use the same handle on Threads, creating a seamless link between the two platforms.\n\n2. **Text-Based Focus**: While it allows sharing of text, images, and videos, Threads is primarily designed for text-based posts, similar to X (formerly Twitter).\n\n3. **Rapid User Growth**: It became the fastest-growing consumer software application, reaching over 100 million users in just five days.\n\n4. **Limited Web Functionality**: The web version of Threads offers limited features compared to the mobile app, requiring users to install the app for full functionality.\n\n5. **Regulatory Considerations**: Threads has delayed its launch in the European Union pending regulatory clarity on data collection policies, highlighting its cautious approach to compliance.\n\nThese features set Threads apart in the competitive landscape of social media.",
+        "search_queries": [
+          "key features of Threads social media compared to other platforms",
+          "how does Threads differ from Twitter and Instagram",
+          "unique functionalities of Threads social network"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "Threads_(social_network)\n\nThreads  is an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Closely linked to Meta platform Instagram and additionally requiring users to both have an Instagram account and use Threads under the same Instagram handle, the functionality of Threads is similar to X (formerly known as Twitter). The application is available on iOS and Android devices; the web version offers limited functionality and requires a mobile app install first. It is the fastest-growing consumer software application in history, gaining over 100 million users in its first five days, surpassing the record previously set by ChatGPT. Its early success was not sustained and the user base of the app plummeted more than 80% to 8 million daily active users by the end of July."
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "the user base of the app plummeted more than 80% to 8 million daily active users by the end of July.After Elon Musk's acquisition of Twitter in October 2022, Meta employees explored the concept of introducing text-based functionality to Instagram. This feature, known as Instagram Notes, was rolled out in December 2022. The company subsequently began developing a separate app focused on text-based posts. Development on Threads—internally known as \"Project 92\"—commenced in January 2023, with the platform officially launching on July 5, 2023. Threads immediately became available in 100 countries (out of 193 UN member states), but has delayed its launch in the European Union as it waits for regulatory clarity from the European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "e European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor\n\nIn October 2019, Threads was introduced as a separate app available for Android and iOS. This app's functionality resembled that of Snapchat, allowing users to communicate through messaging and video chats. It was integrated with Instagram's \"Close friends\" feature, so that users could send images, photos, and texts privately to others, and was embedded with Instagram's photo editing system [13]. Instagram discontinued this version of Threads in December 2021,  mainly due to most of its features being rolled out on Instagram, as well as low usage compared to other social media applications [14] [15] [16]. Approximately 220,000 users globally downloaded the original Threads app, less than 0.1% of Instagram's monthly active users [17]. \n\n## Development and announcement"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      },
+      {
+        "user_utterance": "What are the main user demographics of Threads?",
+        "agent_utterance": "The main user demographics of Threads are not explicitly detailed in the provided evidence. However, it is noted that the app is closely linked to Instagram, requiring users to have an Instagram account, which suggests that its user base may largely consist of Instagram users. Additionally, Threads was launched in 100 countries, indicating a potentially diverse international user demographic. The rapid initial growth to over 100 million users suggests appeal across various age groups, but specific demographic details such as age, gender, or location are not provided in the evidence.",
+        "search_queries": [
+          "Threads social network user demographics",
+          "Threads app user statistics 2023",
+          "Threads social media user age and gender breakdown"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "Threads_(social_network)\n\nThreads  is an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Closely linked to Meta platform Instagram and additionally requiring users to both have an Instagram account and use Threads under the same Instagram handle, the functionality of Threads is similar to X (formerly known as Twitter). The application is available on iOS and Android devices; the web version offers limited functionality and requires a mobile app install first. It is the fastest-growing consumer software application in history, gaining over 100 million users in its first five days, surpassing the record previously set by ChatGPT. Its early success was not sustained and the user base of the app plummeted more than 80% to 8 million daily active users by the end of July."
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "the user base of the app plummeted more than 80% to 8 million daily active users by the end of July.After Elon Musk's acquisition of Twitter in October 2022, Meta employees explored the concept of introducing text-based functionality to Instagram. This feature, known as Instagram Notes, was rolled out in December 2022. The company subsequently began developing a separate app focused on text-based posts. Development on Threads—internally known as \"Project 92\"—commenced in January 2023, with the platform officially launching on July 5, 2023. Threads immediately became available in 100 countries (out of 193 UN member states), but has delayed its launch in the European Union as it waits for regulatory clarity from the European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "e European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor\n\nIn October 2019, Threads was introduced as a separate app available for Android and iOS. This app's functionality resembled that of Snapchat, allowing users to communicate through messaging and video chats. It was integrated with Instagram's \"Close friends\" feature, so that users could send images, photos, and texts privately to others, and was embedded with Instagram's photo editing system [13]. Instagram discontinued this version of Threads in December 2021,  mainly due to most of its features being rolled out on Instagram, as well as low usage compared to other social media applications [14] [15] [16]. Approximately 220,000 users globally downloaded the original Threads app, less than 0.1% of Instagram's monthly active users [17]. \n\n## Development and announcement"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "perspective": "Analyze user engagement metrics on Threads to identify trends in social interaction.",
+    "dlg_turns": [
+      {
+        "user_utterance": "What specific user engagement metrics are available for Threads, and how do they compare to those of other social networks?",
+        "agent_utterance": "Threads offers user engagement metrics such as daily active users, likes, replies, and reposts. Initially, it gained over 100 million users within five days but saw a significant drop of over 80%, resulting in only 8 million daily active users by the end of July. This rapid decline contrasts with other social networks like X (formerly Twitter), which has maintained a more stable user engagement despite challenges. Overall, Threads' early engagement was unprecedented, but its retention has been notably weaker compared to established platforms.",
+        "search_queries": [
+          "Threads social network user engagement metrics comparison",
+          "Threads app user engagement statistics vs other social networks",
+          "user engagement metrics for Threads Instagram Twitter Facebook"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "Threads_(social_network)\n\nThreads  is an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Closely linked to Meta platform Instagram and additionally requiring users to both have an Instagram account and use Threads under the same Instagram handle, the functionality of Threads is similar to X (formerly known as Twitter). The application is available on iOS and Android devices; the web version offers limited functionality and requires a mobile app install first. It is the fastest-growing consumer software application in history, gaining over 100 million users in its first five days, surpassing the record previously set by ChatGPT. Its early success was not sustained and the user base of the app plummeted more than 80% to 8 million daily active users by the end of July."
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "the user base of the app plummeted more than 80% to 8 million daily active users by the end of July.After Elon Musk's acquisition of Twitter in October 2022, Meta employees explored the concept of introducing text-based functionality to Instagram. This feature, known as Instagram Notes, was rolled out in December 2022. The company subsequently began developing a separate app focused on text-based posts. Development on Threads—internally known as \"Project 92\"—commenced in January 2023, with the platform officially launching on July 5, 2023. Threads immediately became available in 100 countries (out of 193 UN member states), but has delayed its launch in the European Union as it waits for regulatory clarity from the European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "e European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor\n\nIn October 2019, Threads was introduced as a separate app available for Android and iOS. This app's functionality resembled that of Snapchat, allowing users to communicate through messaging and video chats. It was integrated with Instagram's \"Close friends\" feature, so that users could send images, photos, and texts privately to others, and was embedded with Instagram's photo editing system [13]. Instagram discontinued this version of Threads in December 2021,  mainly due to most of its features being rolled out on Instagram, as well as low usage compared to other social media applications [14] [15] [16]. Approximately 220,000 users globally downloaded the original Threads app, less than 0.1% of Instagram's monthly active users [17]. \n\n## Development and announcement"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      },
+      {
+        "user_utterance": "What specific strategies has Threads implemented to improve user retention and engagement since its launch?",
+        "agent_utterance": "Since its launch, Threads has implemented several strategies to improve user retention and engagement:\n\n1. **Integration with Instagram**: Threads requires users to have an Instagram account and use the same handle, leveraging Instagram's existing user base to encourage engagement.\n\n2. **Text-based Posting Features**: The app focuses on text-based posts, similar to Twitter, which caters to users looking for a platform for quick updates and conversations.\n\n3. **User Interaction Options**: Threads allows users to interact with posts through replies, reposts, and likes, fostering a more engaging community environment.\n\n4. **Global Availability**: The app was launched in 100 countries, maximizing its reach and potential user engagement.\n\n5. **Continuous Development**: Following its initial success, Threads has likely been exploring additional features and improvements to retain users after a significant drop in daily active users.\n\nThese strategies aim to create a more engaging platform and retain users amidst competition and initial user drop-off.",
+        "search_queries": [
+          "Threads social network user retention strategies 2023",
+          "how Threads improves user engagement since launch",
+          "Threads app features for increasing user retention"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "Threads_(social_network)\n\nThreads  is an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Closely linked to Meta platform Instagram and additionally requiring users to both have an Instagram account and use Threads under the same Instagram handle, the functionality of Threads is similar to X (formerly known as Twitter). The application is available on iOS and Android devices; the web version offers limited functionality and requires a mobile app install first. It is the fastest-growing consumer software application in history, gaining over 100 million users in its first five days, surpassing the record previously set by ChatGPT. Its early success was not sustained and the user base of the app plummeted more than 80% to 8 million daily active users by the end of July."
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "the user base of the app plummeted more than 80% to 8 million daily active users by the end of July.After Elon Musk's acquisition of Twitter in October 2022, Meta employees explored the concept of introducing text-based functionality to Instagram. This feature, known as Instagram Notes, was rolled out in December 2022. The company subsequently began developing a separate app focused on text-based posts. Development on Threads—internally known as \"Project 92\"—commenced in January 2023, with the platform officially launching on July 5, 2023. Threads immediately became available in 100 countries (out of 193 UN member states), but has delayed its launch in the European Union as it waits for regulatory clarity from the European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "e European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor\n\nIn October 2019, Threads was introduced as a separate app available for Android and iOS. This app's functionality resembled that of Snapchat, allowing users to communicate through messaging and video chats. It was integrated with Instagram's \"Close friends\" feature, so that users could send images, photos, and texts privately to others, and was embedded with Instagram's photo editing system [13]. Instagram discontinued this version of Threads in December 2021,  mainly due to most of its features being rolled out on Instagram, as well as low usage compared to other social media applications [14] [15] [16]. Approximately 220,000 users globally downloaded the original Threads app, less than 0.1% of Instagram's monthly active users [17]. \n\n## Development and announcement"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "perspective": "Research the impact of Threads on brand marketing strategies and influencer collaborations.",
+    "dlg_turns": [
+      {
+        "user_utterance": "What are the key features of Threads that differentiate it from other social networks in terms of brand marketing and influencer collaborations?",
+        "agent_utterance": "Threads differentiates itself from other social networks in brand marketing and influencer collaborations through its integration with Instagram, requiring users to have an Instagram account and use the same handle. This connection allows brands and influencers to leverage their existing Instagram audiences for cross-promotion. Additionally, Threads focuses on text-based posts, similar to X (formerly Twitter), which can facilitate real-time engagement and discussions, making it a unique platform for brands to interact with consumers. The app's rapid growth, achieving over 100 million users in its initial days, also presents brands with a large audience for marketing efforts, although this initial success was not sustained.",
+        "search_queries": [
+          "key features of Threads social network for brand marketing",
+          "influencer collaborations on Threads vs other social networks",
+          "how Threads differentiates itself in social media marketing"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "Threads_(social_network)\n\nThreads  is an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Closely linked to Meta platform Instagram and additionally requiring users to both have an Instagram account and use Threads under the same Instagram handle, the functionality of Threads is similar to X (formerly known as Twitter). The application is available on iOS and Android devices; the web version offers limited functionality and requires a mobile app install first. It is the fastest-growing consumer software application in history, gaining over 100 million users in its first five days, surpassing the record previously set by ChatGPT. Its early success was not sustained and the user base of the app plummeted more than 80% to 8 million daily active users by the end of July."
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "the user base of the app plummeted more than 80% to 8 million daily active users by the end of July.After Elon Musk's acquisition of Twitter in October 2022, Meta employees explored the concept of introducing text-based functionality to Instagram. This feature, known as Instagram Notes, was rolled out in December 2022. The company subsequently began developing a separate app focused on text-based posts. Development on Threads—internally known as \"Project 92\"—commenced in January 2023, with the platform officially launching on July 5, 2023. Threads immediately became available in 100 countries (out of 193 UN member states), but has delayed its launch in the European Union as it waits for regulatory clarity from the European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "e European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor\n\nIn October 2019, Threads was introduced as a separate app available for Android and iOS. This app's functionality resembled that of Snapchat, allowing users to communicate through messaging and video chats. It was integrated with Instagram's \"Close friends\" feature, so that users could send images, photos, and texts privately to others, and was embedded with Instagram's photo editing system [13]. Instagram discontinued this version of Threads in December 2021,  mainly due to most of its features being rolled out on Instagram, as well as low usage compared to other social media applications [14] [15] [16]. Approximately 220,000 users globally downloaded the original Threads app, less than 0.1% of Instagram's monthly active users [17]. \n\n## Development and announcement"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      },
+      {
+        "user_utterance": "What specific strategies have brands and influencers adopted to leverage Threads effectively since its launch?",
+        "agent_utterance": "Brands and influencers have adopted several strategies to leverage Threads effectively since its launch:\n\n1. **Integration with Instagram**: Since Threads requires users to have an Instagram account, brands and influencers are utilizing their existing Instagram followings to promote their Threads presence, encouraging cross-platform engagement.\n\n2. **Engaging Content**: They are focusing on creating engaging text-based posts, images, and videos that resonate with their audience, similar to the content strategies used on other platforms like X (formerly Twitter).\n\n3. **Real-time Interaction**: Brands and influencers are using Threads to interact with their audience in real-time, responding to comments and engaging in conversations to foster community and loyalty.\n\n4. **Early Adoption**: Taking advantage of Threads' rapid growth, brands and influencers are positioning themselves as early adopters to capture attention and build a following before the user base stabilizes.\n\n5. **Feedback and Adaptation**: They are actively seeking feedback from their audience on Threads to adapt their strategies and content to better meet user preferences and enhance engagement.\n\nThese strategies are aimed at maximizing visibility and engagement on the platform, especially",
+        "search_queries": [
+          "strategies brands influencers use on Threads social network",
+          "how brands leverage Threads since launch",
+          "influencer marketing tactics on Threads platform"
+        ],
+        "search_results": [
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "Threads_(social_network)\n\nThreads  is an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Closely linked to Meta platform Instagram and additionally requiring users to both have an Instagram account and use Threads under the same Instagram handle, the functionality of Threads is similar to X (formerly known as Twitter). The application is available on iOS and Android devices; the web version offers limited functionality and requires a mobile app install first. It is the fastest-growing consumer software application in history, gaining over 100 million users in its first five days, surpassing the record previously set by ChatGPT. Its early success was not sustained and the user base of the app plummeted more than 80% to 8 million daily active users by the end of July."
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "the user base of the app plummeted more than 80% to 8 million daily active users by the end of July.After Elon Musk's acquisition of Twitter in October 2022, Meta employees explored the concept of introducing text-based functionality to Instagram. This feature, known as Instagram Notes, was rolled out in December 2022. The company subsequently began developing a separate app focused on text-based posts. Development on Threads—internally known as \"Project 92\"—commenced in January 2023, with the platform officially launching on July 5, 2023. Threads immediately became available in 100 countries (out of 193 UN member states), but has delayed its launch in the European Union as it waits for regulatory clarity from the European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          },
+          {
+            "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Threads_(social_network).txt",
+            "description": "Local corpus snippet from Threads_(social_network).txt",
+            "snippets": [
+              "e European Commission regarding the service's data collection policies.\n\n# History\n\n## Predecessor\n\nIn October 2019, Threads was introduced as a separate app available for Android and iOS. This app's functionality resembled that of Snapchat, allowing users to communicate through messaging and video chats. It was integrated with Instagram's \"Close friends\" feature, so that users could send images, photos, and texts privately to others, and was embedded with Instagram's photo editing system [13]. Instagram discontinued this version of Threads in December 2021,  mainly due to most of its features being rolled out on Instagram, as well as low usage compared to other social media applications [14] [15] [16]. Approximately 220,000 users globally downloaded the original Threads app, less than 0.1% of Instagram's monthly active users [17]. \n\n## Development and announcement"
+            ],
+            "title": "Threads_(social_network)",
+            "meta": {
+              "source": "local_topic_file",
+              "query_count": 3
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

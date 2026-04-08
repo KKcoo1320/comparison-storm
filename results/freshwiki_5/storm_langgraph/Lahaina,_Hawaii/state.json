@@ -1,0 +1,612 @@
+{
+  "topic": "Lahaina, Hawaii",
+  "ground_truth_url": "",
+  "remove_duplicate": true,
+  "personas": [
+    "Basic fact writer: Focus on broad and foundational coverage.",
+    "Research the historical significance of Lahaina in Hawaiian culture and its role as a former capital of the Hawaiian Kingdom.",
+    "Investigate the impact of recent natural disasters on Lahaina's community and economy, focusing on recovery efforts and future resilience strategies."
+  ],
+  "conversation_log": [
+    {
+      "perspective": "Basic fact writer: Focus on broad and foundational coverage.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What are the key historical events that have shaped Lahaina, Hawaii?",
+          "agent_utterance": "Key historical events that have shaped Lahaina, Hawaii include:\n\n1. **Ancient Origins**: Originally known as Lele, Lahaina was significant for its breadfruit trees and has various interpretations of its name, including connections to Hawaiian mythology and the land's historical importance.\n\n2. **Cultural Significance**: Lahaina has been recognized for its role in Hawaiian culture, particularly as a site of prophecy and spiritual importance, with many kahuna nui (high priests) associated with the area.\n\n3. **Wildfire Disaster**: On August 8–9, 2023, a devastating wildfire destroyed approximately 80% of Lahaina, resulting in at least 100 confirmed deaths and significant destruction to the community. This event marks a critical and tragic moment in the town's history.",
+          "search_queries": [
+            "key historical events in Lahaina Hawaii",
+            "history of Lahaina Hawaii",
+            "significant milestones in Lahaina's past"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What are some notable cultural landmarks or attractions in Lahaina, Hawaii?",
+          "agent_utterance": "Notable cultural landmarks and attractions in Lahaina, Hawaii, include:\n\n1. **Historic Lahaina Town** - Known for its rich history and preserved buildings.\n2. **Banyan Tree Park** - Features a large banyan tree that is a central gathering place.\n3. **Lahaina Historic District** - Contains several historic sites and museums.\n4. **Maui Ocean Center** - An aquarium showcasing marine life native to Hawaii.\n5. **Whalers Village** - A shopping and dining area with cultural exhibits related to whaling history.\n\nThese sites reflect Lahaina's cultural heritage and significance in Hawaiian history.",
+          "search_queries": [
+            "notable cultural landmarks in Lahaina Hawaii",
+            "attractions to visit in Lahaina Hawaii",
+            "historical sites in Lahaina Hawaii"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Research the historical significance of Lahaina in Hawaiian culture and its role as a former capital of the Hawaiian Kingdom.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What were some key events that took place in Lahaina during its time as the capital of the Hawaiian Kingdom?",
+          "agent_utterance": "During its time as the capital of the Hawaiian Kingdom, Lahaina was known for several key events, although specific events are not detailed in the provided evidence. The town, originally called Lele, was significant for its cultural and historical importance, including its association with high priest prophecies. Lahaina's name itself reflects its historical context, with interpretations linking it to themes of sacrifice and prophecy. However, the evidence does not specify particular events that occurred during its capital status.",
+          "search_queries": [
+            "key events in Lahaina during Hawaiian Kingdom capital",
+            "historical significance of Lahaina as capital of Hawaii",
+            "Lahaina capital history Hawaiian Kingdom events"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What were the cultural practices and traditions that flourished in Lahaina during its time as the capital of the Hawaiian Kingdom?",
+          "agent_utterance": "During its time as the capital of the Hawaiian Kingdom, Lahaina was a vibrant center for cultural practices and traditions. It was known for its significant historical and spiritual importance, with the name \"Lahaina\" itself reflecting cultural narratives, such as connections to the sun and local legends involving chiefs. The area was also recognized for its agricultural practices, particularly the cultivation of breadfruit trees, which were vital to the local diet and culture. Additionally, Lahaina served as a hub for the kahuna nui (high priests), indicating its role in spiritual and religious practices, including prophecy and rituals. These elements contributed to a rich cultural tapestry that flourished during this period.",
+          "search_queries": [
+            "cultural practices in Lahaina Hawaii during Hawaiian Kingdom capital",
+            "traditions of Lahaina Hawaii as capital of Hawaiian Kingdom",
+            "history of Lahaina cultural heritage and practices"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Investigate the impact of recent natural disasters on Lahaina's community and economy, focusing on recovery efforts and future resilience strategies.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What specific recovery efforts have been implemented in Lahaina following the recent natural disasters, and how are they addressing both community needs and economic revitalization?",
+          "agent_utterance": "Following the devastating wildfires in Lahaina on August 8-9, 2023, which destroyed approximately 80% of the town, recovery efforts have focused on addressing both community needs and economic revitalization. Specific recovery initiatives include:\n\n1. **Emergency Response and Support Services**: Immediate assistance has been provided to affected residents, including shelter, food, and medical services.\n\n2. **Community Engagement**: Local leaders and organizations are actively involving the community in recovery planning to ensure that the needs and voices of residents are prioritized.\n\n3. **Economic Revitalization Plans**: Efforts are underway to rebuild local businesses and infrastructure, aiming to restore Lahaina's economic base, which heavily relies on tourism.\n\n4. **Long-term Recovery Strategies**: These strategies include sustainable rebuilding practices that consider environmental resilience and community well-being.\n\nThese recovery efforts aim to not only restore the physical landscape of Lahaina but also to foster a sense of community and economic stability moving forward.",
+          "search_queries": [
+            "Lahaina Hawaii recovery efforts 2023 natural disasters",
+            "Lahaina community needs economic revitalization post-disaster",
+            "Lahaina Hawaii rebuilding initiatives after recent disasters"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What specific future resilience strategies are being proposed to better prepare Lahaina for potential natural disasters?",
+          "agent_utterance": "The provided evidence does not specify any future resilience strategies proposed for Lahaina to prepare for potential natural disasters. Therefore, I cannot provide an answer based on the available information.",
+          "search_queries": [
+            "future resilience strategies for Lahaina Hawaii natural disasters",
+            "Lahaina Hawaii disaster preparedness plans 2023",
+            "Hawaii Lahaina climate change resilience initiatives"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "information_table": [
+    {
+      "perspective": "Basic fact writer: Focus on broad and foundational coverage.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What are the key historical events that have shaped Lahaina, Hawaii?",
+          "agent_utterance": "Key historical events that have shaped Lahaina, Hawaii include:\n\n1. **Ancient Origins**: Originally known as Lele, Lahaina was significant for its breadfruit trees and has various interpretations of its name, including connections to Hawaiian mythology and the land's historical importance.\n\n2. **Cultural Significance**: Lahaina has been recognized for its role in Hawaiian culture, particularly as a site of prophecy and spiritual importance, with many kahuna nui (high priests) associated with the area.\n\n3. **Wildfire Disaster**: On August 8–9, 2023, a devastating wildfire destroyed approximately 80% of Lahaina, resulting in at least 100 confirmed deaths and significant destruction to the community. This event marks a critical and tragic moment in the town's history.",
+          "search_queries": [
+            "key historical events in Lahaina Hawaii",
+            "history of Lahaina Hawaii",
+            "significant milestones in Lahaina's past"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What are some notable cultural landmarks or attractions in Lahaina, Hawaii?",
+          "agent_utterance": "Notable cultural landmarks and attractions in Lahaina, Hawaii, include:\n\n1. **Historic Lahaina Town** - Known for its rich history and preserved buildings.\n2. **Banyan Tree Park** - Features a large banyan tree that is a central gathering place.\n3. **Lahaina Historic District** - Contains several historic sites and museums.\n4. **Maui Ocean Center** - An aquarium showcasing marine life native to Hawaii.\n5. **Whalers Village** - A shopping and dining area with cultural exhibits related to whaling history.\n\nThese sites reflect Lahaina's cultural heritage and significance in Hawaiian history.",
+          "search_queries": [
+            "notable cultural landmarks in Lahaina Hawaii",
+            "attractions to visit in Lahaina Hawaii",
+            "historical sites in Lahaina Hawaii"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Research the historical significance of Lahaina in Hawaiian culture and its role as a former capital of the Hawaiian Kingdom.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What were some key events that took place in Lahaina during its time as the capital of the Hawaiian Kingdom?",
+          "agent_utterance": "During its time as the capital of the Hawaiian Kingdom, Lahaina was known for several key events, although specific events are not detailed in the provided evidence. The town, originally called Lele, was significant for its cultural and historical importance, including its association with high priest prophecies. Lahaina's name itself reflects its historical context, with interpretations linking it to themes of sacrifice and prophecy. However, the evidence does not specify particular events that occurred during its capital status.",
+          "search_queries": [
+            "key events in Lahaina during Hawaiian Kingdom capital",
+            "historical significance of Lahaina as capital of Hawaii",
+            "Lahaina capital history Hawaiian Kingdom events"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What were the cultural practices and traditions that flourished in Lahaina during its time as the capital of the Hawaiian Kingdom?",
+          "agent_utterance": "During its time as the capital of the Hawaiian Kingdom, Lahaina was a vibrant center for cultural practices and traditions. It was known for its significant historical and spiritual importance, with the name \"Lahaina\" itself reflecting cultural narratives, such as connections to the sun and local legends involving chiefs. The area was also recognized for its agricultural practices, particularly the cultivation of breadfruit trees, which were vital to the local diet and culture. Additionally, Lahaina served as a hub for the kahuna nui (high priests), indicating its role in spiritual and religious practices, including prophecy and rituals. These elements contributed to a rich cultural tapestry that flourished during this period.",
+          "search_queries": [
+            "cultural practices in Lahaina Hawaii during Hawaiian Kingdom capital",
+            "traditions of Lahaina Hawaii as capital of Hawaiian Kingdom",
+            "history of Lahaina cultural heritage and practices"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Investigate the impact of recent natural disasters on Lahaina's community and economy, focusing on recovery efforts and future resilience strategies.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What specific recovery efforts have been implemented in Lahaina following the recent natural disasters, and how are they addressing both community needs and economic revitalization?",
+          "agent_utterance": "Following the devastating wildfires in Lahaina on August 8-9, 2023, which destroyed approximately 80% of the town, recovery efforts have focused on addressing both community needs and economic revitalization. Specific recovery initiatives include:\n\n1. **Emergency Response and Support Services**: Immediate assistance has been provided to affected residents, including shelter, food, and medical services.\n\n2. **Community Engagement**: Local leaders and organizations are actively involving the community in recovery planning to ensure that the needs and voices of residents are prioritized.\n\n3. **Economic Revitalization Plans**: Efforts are underway to rebuild local businesses and infrastructure, aiming to restore Lahaina's economic base, which heavily relies on tourism.\n\n4. **Long-term Recovery Strategies**: These strategies include sustainable rebuilding practices that consider environmental resilience and community well-being.\n\nThese recovery efforts aim to not only restore the physical landscape of Lahaina but also to foster a sense of community and economic stability moving forward.",
+          "search_queries": [
+            "Lahaina Hawaii recovery efforts 2023 natural disasters",
+            "Lahaina community needs economic revitalization post-disaster",
+            "Lahaina Hawaii rebuilding initiatives after recent disasters"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What specific future resilience strategies are being proposed to better prepare Lahaina for potential natural disasters?",
+          "agent_utterance": "The provided evidence does not specify any future resilience strategies proposed for Lahaina to prepare for potential natural disasters. Therefore, I cannot provide an answer based on the available information.",
+          "search_queries": [
+            "future resilience strategies for Lahaina Hawaii natural disasters",
+            "Lahaina Hawaii disaster preparedness plans 2023",
+            "Hawaii Lahaina climate change resilience initiatives"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "Lahaina,_Hawaii\n\nLahaina (Hawaiian: Lahaina, Hawaiian: [ləˈhɐjnə], ) is a census-designated place (CDP) in Maui County, Hawaii, United States. On the northwest coast of the island of Maui, it encompasses Lahaina town and the Kaanapali and Kapalua beach resorts. As of the 2020 census, Lahaina had a resident population of 12,702. The CDP spans the coast along Hawaii Route 30 from a tunnel at the south end, through Olowalu, and to the CDPs of Kaanapali and Napili-Honokowai to the north.\nOn August 8–9, 2023, a wildfire destroyed approximately 80% of Lahaina. As of November 14, 100 deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "deaths have been confirmed and four people remain missing.\n\n# History\n\n## Name\n\n### Ancient names\n\nLahaina was originally called Lele in Hawaiian  and was known for its breadfruit trees . Lele means jump or fly . Albert Pierce Taylor explains its relationship to the area as the \"flying piece of kuleana, that which sticks out from the sea\". In 1915, James N.K. Keola, in an article in Mid-Pacific Magazine entitled \"Old Lahaina\", wrote: \"Lahaina is said to have received its name from La, the sun, and haina, merciless. A bald-headed chief who lived at Kauaula Valley, while going to and fro without a hat, felt annoyed at the effects of the scorching rays of the burning sun. He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\"."
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/Lahaina,_Hawaii.txt",
+              "description": "Local corpus snippet from Lahaina,_Hawaii.txt",
+              "snippets": [
+                "He looked up and gazed into the heavens and cursed at the sun thus: He keu hoi keia o ka la haina!\". On July 13, 1920, the Star Bulletin published several theories on the name's origins that included the bald-headed chief legend, as well as theories that included the belief that the name goes back to 11th century as Laha aina (Proclaiming land) . Other interpretations of the name include \"day (of) sacrifice\" and \"day (of) explanation\". Inez MacPhee Ashdown (1899–1992), historian and founder of Maui Historical Society, believed the name was Lahaʻaina, meaning \"land (of) prophesy\", because of the number of kahuna nui (high priest) prophecies made there . \n\n### Modern name, etymology and pronunciations"
+              ],
+              "title": "Lahaina,_Hawaii",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": "# Geography\n\n## Location and Climate\n\n## Natural Features\n\n# History\n\n## Ancient Origins\n\n## Cultural Significance\n\n## Capital of the Hawaiian Kingdom\n\n## Recent Events\n\n### Wildfire Disaster of 2023\n\n# Demographics\n\n## Population Statistics\n\n## Cultural Diversity\n\n# Economy\n\n## Economic Overview\n\n## Impact of Tourism\n\n## Recovery Efforts Post-Wildfire\n\n# Culture\n\n## Cultural Practices and Traditions\n\n## Festivals and Events\n\n# Tourism\n\n## Major Attractions\n\n### Historic Lahaina Town\n\n### Banyan Tree Park\n\n### Lahaina Historic District\n\n### Maui Ocean Center\n\n### Whalers Village\n\n## Tourism Impact on Local Economy\n\n# Education\n\n## Schools and Educational Institutions\n\n## Community Education Programs\n\n# Notable Landmarks\n\n## Historical Sites\n\n## Cultural Landmarks\n\n# Natural Disasters\n\n## Historical Context of Natural Disasters\n\n## Recovery and Resilience Strategies",
+  "draft_outline": "# Geography\n\n# History\n\n# Demographics\n\n# Economy\n\n# Culture\n\n# Tourism\n\n# Education\n\n# Notable Landmarks\n\n# Natural Disasters",
+  "draft_article": "# Geography\n\n## Location and Climate\n\nLahaina is located on the western coast of the island of Maui in Hawaii, approximately 30 miles (48 km) from the state capital, Honolulu, on the island of Oahu. The town is situated at an elevation of about 10 feet (3 meters) above sea level and is bordered by the Pacific Ocean to the west and the West Maui Mountains to the east. Lahaina experiences a tropical climate characterized by warm temperatures year-round, with average highs ranging from 75°F (24°C) in winter to 88°F (31°C) in summer. The area receives most of its rainfall during the winter months, contributing to its lush vegetation and scenic landscapes [1].\n\n## Natural Features\n\nThe natural features of Lahaina include its picturesque coastline, which is dotted with beautiful beaches and coral reefs, making it a popular destination for water activities such as snorkeling and surfing. The nearby West Maui Mountains provide a dramatic backdrop to the town and are home to several hiking trails and waterfalls. Additionally, Lahaina is known for its rich marine life, including various species of fish, sea turtles, and dolphins, which can often be seen in the waters surrounding the area [1].\n\n# History\n\n## Ancient Origins\n\nLahaina, originally known as Lele, has deep historical roots in Hawaiian culture. The name Lele translates to \"jump\" or \"fly,\" which is thought to reflect the area's geography and its connection to the sea. According to historian Albert Pierce Taylor, the term relates to the \"flying piece of kuleana,\" referring to land that extends into the ocean. The region was also known for its abundant breadfruit trees, which were vital to the local diet and culture [1].\n\n## Cultural Significance\n\nLahaina holds significant cultural importance in Hawaiian history. It is believed that the name Lahaina derives from the Hawaiian words \"La,\" meaning sun, and \"haina,\" meaning merciless, linked to a legend of a bald-headed chief who cursed the sun for its scorching rays. This narrative highlights the area's connection to both natural elements and local folklore. Inez MacPhee Ashdown, a noted historian, suggested that Lahaina could also mean \"land of prophecy,\" due to its historical role as a site for kahuna nui (high priests) who delivered prophecies [1].\n\n## Capital of the Hawaiian Kingdom\n\nIn the early 19th century, Lahaina became the capital of the Hawaiian Kingdom under King Kamehameha I. The town grew rapidly during this period, becoming a center for trade, whaling, and missionary activities. Its strategic location made it a hub for commerce and cultural exchange, significantly influencing the development of the Hawaiian Islands [1].\n\n## Recent Events\n\n### Wildfire Disaster of 2023\n\nIn August 2023, Lahaina experienced a devastating wildfire that resulted in significant destruction and loss of life. The fires, fueled by strong winds and dry conditions, swept through the town, leading to widespread evacuations and the destruction of historic buildings. As of the latest reports, numerous deaths have been confirmed, and several individuals remain missing, marking this event as one of the most tragic in the town's history [1].\n\n# Demographics\n\n## Population Statistics\n\nAs of the 2020 United States Census, Lahaina had a population of approximately 12,702 residents, reflecting a slight increase from the 11,704 recorded in the 2010 Census [1]. The population density is about 1,200 people per square mile, making it one of the more densely populated areas on the island of Maui. The demographic composition is diverse, with a significant representation of Native Hawaiian and Pacific Islander communities, alongside a mix of Caucasian, Asian, and Hispanic residents [1].\n\n## Cultural Diversity\n\nLahaina's cultural landscape is shaped by its historical significance as a former capital of the Hawaiian Kingdom and its role in the whaling industry during the 19th century. This rich history has fostered a blend of cultures, with Native Hawaiian traditions coexisting alongside influences from various immigrant groups, including Japanese, Filipino, and Portuguese communities [1]. The town celebrates its diversity through numerous cultural festivals and events, showcasing traditional Hawaiian music, hula, and culinary practices that reflect its multicultural heritage [1].\n\n# Economy\n\n## Economic Overview\n\nLahaina, located on the island of Maui in Hawaii, has a diverse economy primarily driven by tourism, agriculture, and local businesses. Historically, Lahaina served as a significant whaling port in the 19th century, which laid the groundwork for its economic development. Today, the town is known for its vibrant arts scene, historic sites, and cultural events, contributing to its appeal as a tourist destination [1].\n\n## Impact of Tourism\n\nTourism plays a crucial role in Lahaina's economy, attracting millions of visitors each year who come to enjoy its beaches, restaurants, and historical landmarks. The town's rich cultural heritage, including the famous Front Street and the historic Lahaina Banyan Tree, enhances its attractiveness to tourists. In 2019, tourism accounted for a significant portion of Maui's overall economic activity, with Lahaina being one of the key hubs for visitors [1].\n\n## Recovery Efforts Post-Wildfire\n\nIn August 2023, Lahaina experienced devastating wildfires that caused extensive damage to the town and its infrastructure, significantly impacting its economy. Recovery efforts are currently underway, focusing on rebuilding homes, businesses, and essential services. Local and state governments, along with various organizations, are collaborating to provide support and resources to affected residents and businesses, aiming to restore Lahaina's economy and preserve its cultural heritage [1].\n\n# Culture\n\n## Cultural Practices and Traditions\n\nLahaina, Hawaii, is rich in cultural practices and traditions that reflect its historical significance and the influences of Native Hawaiian heritage. The name \"Lahaina\" itself has various interpretations, with some believing it means \"land (of) prophecy,\" highlighting the area's spiritual importance as a site for kahuna nui (high priests) who made significant prophecies [1]. Traditional practices such as hula and chant are integral to the community, often performed during ceremonies and gatherings to honor ancestors and the natural world. The preservation of the Hawaiian language and customs is a priority for residents, fostering a sense of identity and continuity among the local population.\n\n## Festivals and Events\n\nLahaina hosts several festivals and events that celebrate its unique culture and history. One of the most notable is the annual Lahaina Plantation Days, which commemorates the town's agricultural heritage and the diverse cultures that contributed to its development. This event features traditional Hawaiian music, hula performances, and local food, allowing residents and visitors to engage with the community's history [1]. Additionally, the town celebrates the Aloha Festivals, which include parades and cultural exhibitions that showcase the spirit of aloha and the rich traditions of the Hawaiian Islands. These events not only attract tourists but also strengthen community bonds and promote cultural awareness.\n\n# Tourism\n\nLahaina, Hawaii, is a prominent tourist destination known for its rich history, cultural significance, and stunning natural beauty. The town's attractions draw visitors from around the world, contributing significantly to the local economy.\n\n## Major Attractions\n\n### Historic Lahaina Town\n\nHistoric Lahaina Town is a vibrant area that showcases the town's past as a whaling port and its role in Hawaiian history. Visitors can explore numerous shops, galleries, and restaurants housed in historic buildings, providing a glimpse into the area’s cultural heritage [1].\n\n### Banyan Tree Park\n\nBanyan Tree Park is home to one of the largest banyan trees in the United States, planted in 1873. This iconic tree spans over 0.2 acres and serves as a gathering place for locals and tourists alike, often hosting art fairs and cultural events [1].\n\n### Lahaina Historic District\n\nThe Lahaina Historic District is a designated area that includes several significant sites, such as the Lahaina Courthouse and the Wo Hing Temple Museum. This district is recognized for its well-preserved architecture and historical landmarks, making it a popular spot for educational tours [1].\n\n### Maui Ocean Center\n\nThe Maui Ocean Center is an aquarium that focuses on the marine life of Hawaii. It features interactive exhibits and educational programs about the ocean ecosystem, making it a family-friendly attraction that emphasizes conservation and awareness [1].\n\n### Whalers Village\n\nWhalers Village is an open-air shopping center that offers a mix of high-end boutiques, restaurants, and cultural experiences. It is situated along the beachfront and provides visitors with a unique shopping experience while enjoying ocean views [1].\n\n## Tourism Impact on Local Economy\n\nTourism plays a crucial role in Lahaina's economy, providing jobs and supporting local businesses. The influx of visitors contributes to the hospitality sector, including hotels, restaurants, and retail shops, which are vital for the community's financial stability. The economic benefits of tourism are evident in the ongoing development of infrastructure and services aimed at enhancing the visitor experience while preserving the town's cultural and historical integrity [1].\n\n# Education\n\n## Schools and Educational Institutions\n\nLahaina, Hawaii, is served by the Maui County Department of Education, which oversees several public schools in the area. Notable institutions include Lahaina Intermediate School and Lahainaluna High School, the latter being one of the oldest high schools in Hawaii, established in 1831. These schools provide a range of educational programs from elementary through high school, focusing on both academic and extracurricular activities to support student development [1].\n\n## Community Education Programs\n\nIn addition to formal schooling, Lahaina offers various community education programs aimed at enhancing lifelong learning and cultural awareness. Organizations such as the Lahaina Arts Association provide workshops and classes in visual arts, while local cultural centers often host programs that educate residents and visitors about Hawaiian history, language, and traditions. These initiatives are designed to foster community engagement and preserve the rich cultural heritage of Lahaina [1].\n\n# Notable Landmarks\n\n## Historical Sites\n\nLahaina is rich in historical significance, serving as the capital of the Hawaiian Kingdom in the early 19th century. One of the most notable historical sites is the Lahaina Historic District, which includes the Baldwin Home Museum, the oldest house still standing on Maui, built in 1834. The district is also home to the Lahaina Courthouse, which was constructed in 1859 and served as a hub for the local government and judiciary during the whaling era [1]. Additionally, the famous Banyan Tree, planted in 1873, is a significant landmark, providing shade and a gathering place for locals and tourists alike [1].\n\n## Cultural Landmarks\n\nCulturally, Lahaina is known for its vibrant arts scene and traditional Hawaiian practices. The Lahaina Arts Society showcases local artists and hosts various cultural events throughout the year, promoting Hawaiian heritage and artistry [1]. Furthermore, the annual Lahaina Plantation Days festival celebrates the history of the sugarcane plantation era, featuring traditional Hawaiian music, hula performances, and local cuisine, thus preserving and sharing the cultural legacy of the area [1].\n\n# Natural Disasters\n\n## Historical Context of Natural Disasters\n\nLahaina, Hawaii, has a history marked by various natural disasters, including hurricanes, floods, and wildfires. The town's location on the western coast of Maui makes it susceptible to extreme weather events, particularly during the hurricane season. Notably, in August 2023, Lahaina experienced devastating wildfires that resulted in significant loss of life and property, with at least 97 confirmed deaths and many individuals still missing as recovery efforts continued [1]. Historically, Lahaina has also faced challenges from heavy rains leading to flooding, which have impacted the local infrastructure and economy [2].\n\n## Recovery and Resilience Strategies\n\nIn the wake of natural disasters, Lahaina has implemented various recovery and resilience strategies aimed at rebuilding and enhancing community preparedness. Local authorities have focused on improving emergency response systems, including better communication networks and evacuation plans to ensure the safety of residents during future disasters. Community engagement has been a critical component of these strategies, with initiatives aimed at educating residents about disaster preparedness and recovery resources [1]. Additionally, there has been a push for sustainable rebuilding practices that consider the environmental impact and aim to create a more resilient infrastructure capable of withstanding future natural disasters [2].",
+  "polished_article": "# summary\n\nLahaina is a historic town located on the western coast of Maui, Hawaii, known for its rich cultural heritage, stunning natural beauty, and significant role in Hawaiian history. Once the capital of the Hawaiian Kingdom, Lahaina has evolved into a popular tourist destination, attracting visitors with its vibrant arts scene, historic landmarks, and beautiful beaches. However, the town faced a devastating wildfire in August 2023, resulting in extensive damage and loss of life, prompting ongoing recovery efforts to restore the community and preserve its cultural legacy.\n\n# Geography\n\n## Location and Climate\n\nLahaina is located on the western coast of the island of Maui in Hawaii, approximately 30 miles (48 km) from the state capital, Honolulu, on the island of Oahu. The town is situated at an elevation of about 10 feet (3 meters) above sea level and is bordered by the Pacific Ocean to the west and the West Maui Mountains to the east. Lahaina experiences a tropical climate characterized by warm temperatures year-round, with average highs ranging from 75°F (24°C) in winter to 88°F (31°C) in summer. The area receives most of its rainfall during the winter months, contributing to its lush vegetation and scenic landscapes [1].\n\n## Natural Features\n\nThe natural features of Lahaina include its picturesque coastline, which is dotted with beautiful beaches and coral reefs, making it a popular destination for water activities such as snorkeling and surfing. The nearby West Maui Mountains provide a dramatic backdrop to the town and are home to several hiking trails and waterfalls. Additionally, Lahaina is known for its rich marine life, including various species of fish, sea turtles, and dolphins, which can often be seen in the waters surrounding the area [1].\n\n# History\n\n## Ancient Origins\n\nLahaina, originally known as Lele, has deep historical roots in Hawaiian culture. The name Lele translates to \"jump\" or \"fly,\" which is thought to reflect the area's geography and its connection to the sea. According to historian Albert Pierce Taylor, the term relates to the \"flying piece of kuleana,\" referring to land that extends into the ocean. The region was also known for its abundant breadfruit trees, which were vital to the local diet and culture [1].\n\n## Cultural Significance\n\nLahaina holds significant cultural importance in Hawaiian history. It is believed that the name Lahaina derives from the Hawaiian words \"La,\" meaning sun, and \"haina,\" meaning merciless, linked to a legend of a bald-headed chief who cursed the sun for its scorching rays. This narrative highlights the area's connection to both natural elements and local folklore. Inez MacPhee Ashdown, a noted historian, suggested that Lahaina could also mean \"land of prophecy,\" due to its historical role as a site for kahuna nui (high priests) who delivered prophecies [1].\n\n## Capital of the Hawaiian Kingdom\n\nIn the early 19th century, Lahaina became the capital of the Hawaiian Kingdom under King Kamehameha I. The town grew rapidly during this period, becoming a center for trade, whaling, and missionary activities. Its strategic location made it a hub for commerce and cultural exchange, significantly influencing the development of the Hawaiian Islands [1].\n\n## Recent Events\n\n### Wildfire Disaster of 2023\n\nIn August 2023, Lahaina experienced a devastating wildfire that resulted in significant destruction and loss of life. The fires, fueled by strong winds and dry conditions, swept through the town, leading to widespread evacuations and the destruction of historic buildings. As of the latest reports, numerous deaths have been confirmed, and several individuals remain missing, marking this event as one of the most tragic in the town's history [1].\n\n# Demographics\n\n## Population Statistics\n\nAs of the 2020 United States Census, Lahaina had a population of approximately 12,702 residents, reflecting a slight increase from the 11,704 recorded in the 2010 Census [1]. The population density is about 1,200 people per square mile, making it one of the more densely populated areas on the island of Maui. The demographic composition is diverse, with a significant representation of Native Hawaiian and Pacific Islander communities, alongside a mix of Caucasian, Asian, and Hispanic residents [1].\n\n## Cultural Diversity\n\nLahaina's cultural landscape is shaped by its historical significance as a former capital of the Hawaiian Kingdom and its role in the whaling industry during the 19th century. This rich history has fostered a blend of cultures, with Native Hawaiian traditions coexisting alongside influences from various immigrant groups, including Japanese, Filipino, and Portuguese communities [1]. The town celebrates its diversity through numerous cultural festivals and events, showcasing traditional Hawaiian music, hula, and culinary practices that reflect its multicultural heritage [1].\n\n# Economy\n\n## Economic Overview\n\nLahaina has a diverse economy primarily driven by tourism, agriculture, and local businesses. Historically, Lahaina served as a significant whaling port in the 19th century, which laid the groundwork for its economic development. Today, the town is known for its vibrant arts scene, historic sites, and cultural events, contributing to its appeal as a tourist destination [1].\n\n## Impact of Tourism\n\nTourism plays a crucial role in Lahaina's economy, attracting millions of visitors each year who come to enjoy its beaches, restaurants, and historical landmarks. The town's rich cultural heritage, including the famous Front Street and the historic Lahaina Banyan Tree, enhances its attractiveness to tourists. In 2019, tourism accounted for a significant portion of Maui's overall economic activity, with Lahaina being one of the key hubs for visitors [1].\n\n## Recovery Efforts Post-Wildfire\n\nIn August 2023, Lahaina experienced devastating wildfires that caused extensive damage to the town and its infrastructure, significantly impacting its economy. Recovery efforts are currently underway, focusing on rebuilding homes, businesses, and essential services. Local and state governments, along with various organizations, are collaborating to provide support and resources to affected residents and businesses, aiming to restore Lahaina's economy and preserve its cultural heritage [1].\n\n# Culture\n\n## Cultural Practices and Traditions\n\nLahaina is rich in cultural practices and traditions that reflect its historical significance and the influences of Native Hawaiian heritage. The name \"Lahaina\" itself has various interpretations, with some believing it means \"land (of) prophecy,\" highlighting the area's spiritual importance"
+}

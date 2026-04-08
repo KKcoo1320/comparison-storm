@@ -1,0 +1,6 @@
+topic,url,predicted_class,predicted_scores
+Taylor Hawkins,https://en.wikipedia.org/wiki/Taylor_Hawkins,GA,"{'B': 0.11539608191927074, 'C': 0.04102266122999921, 'FA': 0.15540747668986662, 'GA': 0.673227842079754, 'Start': 0.010971018160521115, 'Stub': 0.003974919920588248}"
+"Lahaina, Hawaii","https://en.wikipedia.org/wiki/Lahaina,_Hawaii",GA,"{'B': 0.11846408314502671, 'C': 0.06684056778921954, 'FA': 0.26013613609617614, 'GA': 0.5395440340711896, 'Start': 0.010931956665203345, 'Stub': 0.00408322223318461}"
+Silicon Valley Bank,https://en.wikipedia.org/wiki/Silicon_Valley_Bank,FA,"{'B': 0.05837729077709576, 'C': 0.023486830550640863, 'FA': 0.45405405096903595, 'GA': 0.4530778102345905, 'Start': 0.007990745537132244, 'Stub': 0.003013271931504715}"
+OceanGate,https://en.wikipedia.org/wiki/OceanGate,GA,"{'B': 0.13412417724735018, 'C': 0.061544528380864646, 'FA': 0.17929890806664525, 'GA': 0.6103335622425434, 'Start': 0.010762870711099768, 'Stub': 0.0039359533514967664}"
+Threads (social network),https://en.wikipedia.org/wiki/Threads_(social_network),GA,"{'B': 0.1536276236082608, 'C': 0.076269382058159, 'FA': 0.14389030646224796, 'GA': 0.6057071482490285, 'Start': 0.015458797852295298, 'Stub': 0.005046741770008484}"

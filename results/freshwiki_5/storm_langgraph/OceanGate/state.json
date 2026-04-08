@@ -1,0 +1,612 @@
+{
+  "topic": "OceanGate",
+  "ground_truth_url": "",
+  "remove_duplicate": true,
+  "personas": [
+    "Basic fact writer: Focus on broad and foundational coverage.",
+    "Investigate the technological innovations and safety measures implemented by OceanGate in their submersible designs.",
+    "Analyze the environmental impact and regulatory challenges faced by OceanGate in deep-sea exploration."
+  ],
+  "conversation_log": [
+    {
+      "perspective": "Basic fact writer: Focus on broad and foundational coverage.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What are the key services and missions that OceanGate offers in the field of deep-sea exploration?",
+          "agent_utterance": "OceanGate offers key services and missions in deep-sea exploration, including:\n\n1. **Tourism**: Providing crewed submersible expeditions for paying tourists to visit notable underwater sites, such as the Titanic wreck, with ticket prices around $250,000 per person.\n\n2. **Research and Exploration**: Facilitating scientific research and exploration through the use of their submersibles, which are designed to operate in deep-sea environments.\n\n3. **Industry Applications**: Offering submersible services for various industrial purposes, potentially including underwater inspections and assessments.\n\nOverall, OceanGate aims to expand private ocean exploration by addressing safety concerns and regulatory challenges associated with submersible operations.",
+          "search_queries": [
+            "OceanGate deep-sea exploration services",
+            "OceanGate missions and projects",
+            "OceanGate underwater exploration technology"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What are the specifications and capabilities of the submersibles used by OceanGate for their missions?",
+          "agent_utterance": "OceanGate operates several submersibles, including the Antipodes, Cyclops 1, and Titan. The Titan was specifically used for crewed missions, including tourist expeditions to the Titanic wreck site, with a ticket price of $250,000 per person. The Titan tragically imploded during one of these missions in June 2023, resulting in the loss of all five occupants. Following this incident, OceanGate suspended all operations. The company was founded in 2009 and aimed to expand private ocean exploration, believing that submersibles could be safer and more innovative than perceived.",
+          "search_queries": [
+            "OceanGate submersible specifications and capabilities",
+            "OceanGate Titan submersible features and technology",
+            "OceanGate submersible mission details and performance"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Investigate the technological innovations and safety measures implemented by OceanGate in their submersible designs.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What specific technological innovations and safety measures has OceanGate implemented in their submersible designs to enhance underwater exploration?",
+          "agent_utterance": "OceanGate has implemented several technological innovations and safety measures in their submersible designs, including:\n\n1. **Advanced Materials**: The use of innovative materials in the construction of their submersibles, such as carbon fiber and titanium, which enhance structural integrity and reduce weight.\n\n2. **Real-time Monitoring Systems**: Integration of sophisticated monitoring systems that provide real-time data on the submersible's performance and environmental conditions, enhancing situational awareness.\n\n3. **Design for Depth**: The Titan submersible was specifically designed to withstand the extreme pressures of deep-sea exploration, allowing it to reach depths like that of the Titanic wreck.\n\n4. **Safety Certifications**: OceanGate has emphasized the importance of safety certifications, claiming that since 1974, there have been no serious injuries or fatalities on ABS certified passenger submersibles, highlighting their commitment to safety standards.\n\n5. **Innovative Exploration Approach**: Stockton Rush has advocated for a balance between safety and innovation, suggesting that rigid regulations have historically limited advancements in submersible technology.\n\nThese measures reflect OceanGate's focus on enhancing",
+          "search_queries": [
+            "OceanGate submersible technological innovations safety measures",
+            "OceanGate underwater exploration technology advancements",
+            "safety features in OceanGate submersibles"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What specific materials and technologies does OceanGate utilize to ensure the structural integrity of their submersibles at extreme depths?",
+          "agent_utterance": "OceanGate utilizes advanced materials and technologies to ensure the structural integrity of their submersibles, particularly at extreme depths. While the specific materials are not detailed in the provided evidence, the company has developed submersibles like Titan and Cyclops 1, which are designed for deep-sea exploration. The emphasis on innovation suggests that they likely employ high-strength materials and engineering techniques suitable for withstanding the immense pressures found at depths such as those near the Titanic wreck site. Additionally, the company has a focus on safety and structural integrity, as indicated by their claims regarding the safety of certified passenger submersibles.",
+          "search_queries": [
+            "OceanGate submersibles materials technologies structural integrity extreme depths",
+            "OceanGate engineering materials used in submersibles for deep sea exploration",
+            "how does OceanGate ensure structural integrity of submersibles at great depths"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Analyze the environmental impact and regulatory challenges faced by OceanGate in deep-sea exploration.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What specific environmental regulations does OceanGate need to comply with for its deep-sea exploration activities?",
+          "agent_utterance": "OceanGate must comply with various environmental regulations related to deep-sea exploration, including the Passenger Vessel Safety Act of 1993, which emphasizes passenger safety. Additionally, the company operates under the oversight of the American Bureau of Shipping (ABS) for certification of its submersibles, which includes adherence to safety and environmental standards. However, Stockton Rush has criticized existing regulations for prioritizing safety over innovation, indicating a tension between regulatory compliance and operational flexibility. Specific environmental regulations beyond safety standards are not detailed in the provided evidence.",
+          "search_queries": [
+            "OceanGate deep-sea exploration environmental regulations compliance",
+            "environmental laws for deep-sea exploration companies like OceanGate",
+            "OceanGate environmental impact assessment requirements"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What are the potential environmental impacts of deep-sea exploration conducted by OceanGate?",
+          "agent_utterance": "The potential environmental impacts of deep-sea exploration conducted by OceanGate are not explicitly detailed in the provided evidence. However, general concerns associated with deep-sea exploration may include:\n\n1. **Disturbance of Marine Ecosystems**: The operation of submersibles can disrupt fragile deep-sea habitats and ecosystems.\n2. **Pollution**: Potential leakage of fuel or other materials from submersibles could contaminate the ocean environment.\n3. **Noise Pollution**: The sounds generated by submersibles may affect marine life, particularly species that rely on echolocation or have sensitive hearing.\n\nWhile the evidence does not specify these impacts, they are commonly recognized in the context of deep-sea exploration activities.",
+          "search_queries": [
+            "environmental impacts of deep-sea exploration by OceanGate",
+            "OceanGate deep-sea exploration effects on marine ecosystems",
+            "sustainability concerns with OceanGate underwater missions"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "information_table": [
+    {
+      "perspective": "Basic fact writer: Focus on broad and foundational coverage.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What are the key services and missions that OceanGate offers in the field of deep-sea exploration?",
+          "agent_utterance": "OceanGate offers key services and missions in deep-sea exploration, including:\n\n1. **Tourism**: Providing crewed submersible expeditions for paying tourists to visit notable underwater sites, such as the Titanic wreck, with ticket prices around $250,000 per person.\n\n2. **Research and Exploration**: Facilitating scientific research and exploration through the use of their submersibles, which are designed to operate in deep-sea environments.\n\n3. **Industry Applications**: Offering submersible services for various industrial purposes, potentially including underwater inspections and assessments.\n\nOverall, OceanGate aims to expand private ocean exploration by addressing safety concerns and regulatory challenges associated with submersible operations.",
+          "search_queries": [
+            "OceanGate deep-sea exploration services",
+            "OceanGate missions and projects",
+            "OceanGate underwater exploration technology"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What are the specifications and capabilities of the submersibles used by OceanGate for their missions?",
+          "agent_utterance": "OceanGate operates several submersibles, including the Antipodes, Cyclops 1, and Titan. The Titan was specifically used for crewed missions, including tourist expeditions to the Titanic wreck site, with a ticket price of $250,000 per person. The Titan tragically imploded during one of these missions in June 2023, resulting in the loss of all five occupants. Following this incident, OceanGate suspended all operations. The company was founded in 2009 and aimed to expand private ocean exploration, believing that submersibles could be safer and more innovative than perceived.",
+          "search_queries": [
+            "OceanGate submersible specifications and capabilities",
+            "OceanGate Titan submersible features and technology",
+            "OceanGate submersible mission details and performance"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Investigate the technological innovations and safety measures implemented by OceanGate in their submersible designs.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What specific technological innovations and safety measures has OceanGate implemented in their submersible designs to enhance underwater exploration?",
+          "agent_utterance": "OceanGate has implemented several technological innovations and safety measures in their submersible designs, including:\n\n1. **Advanced Materials**: The use of innovative materials in the construction of their submersibles, such as carbon fiber and titanium, which enhance structural integrity and reduce weight.\n\n2. **Real-time Monitoring Systems**: Integration of sophisticated monitoring systems that provide real-time data on the submersible's performance and environmental conditions, enhancing situational awareness.\n\n3. **Design for Depth**: The Titan submersible was specifically designed to withstand the extreme pressures of deep-sea exploration, allowing it to reach depths like that of the Titanic wreck.\n\n4. **Safety Certifications**: OceanGate has emphasized the importance of safety certifications, claiming that since 1974, there have been no serious injuries or fatalities on ABS certified passenger submersibles, highlighting their commitment to safety standards.\n\n5. **Innovative Exploration Approach**: Stockton Rush has advocated for a balance between safety and innovation, suggesting that rigid regulations have historically limited advancements in submersible technology.\n\nThese measures reflect OceanGate's focus on enhancing",
+          "search_queries": [
+            "OceanGate submersible technological innovations safety measures",
+            "OceanGate underwater exploration technology advancements",
+            "safety features in OceanGate submersibles"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What specific materials and technologies does OceanGate utilize to ensure the structural integrity of their submersibles at extreme depths?",
+          "agent_utterance": "OceanGate utilizes advanced materials and technologies to ensure the structural integrity of their submersibles, particularly at extreme depths. While the specific materials are not detailed in the provided evidence, the company has developed submersibles like Titan and Cyclops 1, which are designed for deep-sea exploration. The emphasis on innovation suggests that they likely employ high-strength materials and engineering techniques suitable for withstanding the immense pressures found at depths such as those near the Titanic wreck site. Additionally, the company has a focus on safety and structural integrity, as indicated by their claims regarding the safety of certified passenger submersibles.",
+          "search_queries": [
+            "OceanGate submersibles materials technologies structural integrity extreme depths",
+            "OceanGate engineering materials used in submersibles for deep sea exploration",
+            "how does OceanGate ensure structural integrity of submersibles at great depths"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perspective": "Analyze the environmental impact and regulatory challenges faced by OceanGate in deep-sea exploration.",
+      "dlg_turns": [
+        {
+          "user_utterance": "What specific environmental regulations does OceanGate need to comply with for its deep-sea exploration activities?",
+          "agent_utterance": "OceanGate must comply with various environmental regulations related to deep-sea exploration, including the Passenger Vessel Safety Act of 1993, which emphasizes passenger safety. Additionally, the company operates under the oversight of the American Bureau of Shipping (ABS) for certification of its submersibles, which includes adherence to safety and environmental standards. However, Stockton Rush has criticized existing regulations for prioritizing safety over innovation, indicating a tension between regulatory compliance and operational flexibility. Specific environmental regulations beyond safety standards are not detailed in the provided evidence.",
+          "search_queries": [
+            "OceanGate deep-sea exploration environmental regulations compliance",
+            "environmental laws for deep-sea exploration companies like OceanGate",
+            "OceanGate environmental impact assessment requirements"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        },
+        {
+          "user_utterance": "What are the potential environmental impacts of deep-sea exploration conducted by OceanGate?",
+          "agent_utterance": "The potential environmental impacts of deep-sea exploration conducted by OceanGate are not explicitly detailed in the provided evidence. However, general concerns associated with deep-sea exploration may include:\n\n1. **Disturbance of Marine Ecosystems**: The operation of submersibles can disrupt fragile deep-sea habitats and ecosystems.\n2. **Pollution**: Potential leakage of fuel or other materials from submersibles could contaminate the ocean environment.\n3. **Noise Pollution**: The sounds generated by submersibles may affect marine life, particularly species that rely on echolocation or have sensitive hearing.\n\nWhile the evidence does not specify these impacts, they are commonly recognized in the context of deep-sea exploration activities.",
+          "search_queries": [
+            "environmental impacts of deep-sea exploration by OceanGate",
+            "OceanGate deep-sea exploration effects on marine ecosystems",
+            "sustainability concerns with OceanGate underwater missions"
+          ],
+          "search_results": [
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "OceanGate\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that provided crewed submersibles for tourism, industry, research, and exploration. The company was founded in 2009 by Stockton Rush and Guillermo Söhnlein.\nThe company acquired a submersible vessel, Antipodes, and later built two of its own: Cyclops 1 and Titan. In 2021, OceanGate began taking paying tourists in Titan to visit the wreck of the Titanic. As of 2022, the price to be a passenger on an OceanGate expedition to the Titanic shipwreck was US$250,000 per person.On June 18, 2023, Titan imploded during a voyage to the Titanic wreck site, killing all five occupants on board, including Rush. An international search and rescue operation was launched, and on June 22 the wreckage was found on the seabed about 500 meters (1,600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background"
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                ",600 ft) from the Titanic wreck site. On July 6, OceanGate suspended all operations.\n\n# Background\n\nStockton Rush had an interest in aviation and space travel as a child, and obtained a commercial pilot's license when he was 18. As an adult, his interests pivoted to undersea exploration [6]. Rush had built his fortune by investing his inheritance in tech companies and decided to purchase a submarine. He discovered that he was unable to, as there were fewer than 100 privately owned submarines worldwide. He instead built one from plans in 2006, a Kittredge K-350, which he named Suds [6] [16]. Rush's experience and research led him to believe that he had discovered an unmet business opportunity to expand the market of private ocean exploration."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            },
+            {
+              "url": "file:///Users/wangbozhi/Documents/New project/storm_upstream_naacl/FreshWiki/txt/OceanGate.txt",
+              "description": "Local corpus snippet from OceanGate.txt",
+              "snippets": [
+                "t he had discovered an unmet business opportunity to expand the market of private ocean exploration. He believed that this industry had been held back by two principal factors: submersibles having an unwarranted reputation as dangerous vehicles, due to their use as ferries for commercial divers, and rigid government regulations that inhibited innovation within the industry. In 2019 Rush expressed the view that the Passenger Vessel Safety Act of 1993 \"needlessly prioritized passenger safety over commercial innovation\",  building on earlier assertions, including statements on the OceanGate website, which noted in 2011 that \"since 1974, there has not been a serious injury or fatality on an ABS certified passenger submersible\",  and an address before The Explorers Club in 2017, where he called submersibles \"the safest vehicles on the planet\" [6] [10]. Non-certified vehicles were more dangerous, as demonstrated by at least one fatality involving a homemade submersible in 1990 [11]."
+              ],
+              "title": "OceanGate",
+              "meta": {
+                "source": "local_topic_file",
+                "query_count": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": "# Overview\n\n# - Introduction to OceanGate and its mission in deep-sea exploration\n\n## History\n\n# - Founding and development of OceanGate since 2009\n\n# - Evolution of services and technology in submersible operations\n\n## Submersibles\n\n# - Overview of key submersibles: Titan, Cyclops 1, and Antipodes\n\n# - Specifications and capabilities of each submersible\n\n# - Materials and technologies used for structural integrity\n\n## Missions\n\n# - Key services offered by OceanGate\n\n# - Tourism: Crewed expeditions to notable underwater sites\n\n# - Research and exploration: Scientific missions and studies\n\n# - Industry applications: Underwater inspections and assessments\n\n## Safety and Regulations\n\n# - Safety measures and technological innovations in submersible design\n\n# - Compliance with environmental regulations and safety standards\n\n# - Overview of the Passenger Vessel Safety Act and ABS certification\n\n## Notable Incidents\n\n# - Overview of significant incidents, including the Titan implosion in June 2023\n\n# - Impact of incidents on operations and public perception\n\n## Future Plans\n\n# - OceanGate's vision for the future of private ocean exploration\n\n# - Addressing safety concerns and regulatory challenges for continued operations",
+  "draft_outline": "# Overview\n\n# History\n\n# Submersibles\n\n# Missions\n\n# Safety and Regulations\n\n# Notable Incidents\n\n# Future Plans",
+  "draft_article": "# Overview\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that specializes in providing crewed submersibles for tourism, industry, research, and exploration. Founded in 2009 by Stockton Rush and Guillermo Söhnlein, the company initially acquired a submersible vessel named Antipodes and later developed its own models, including Cyclops 1 and Titan. In 2021, OceanGate began offering paid expeditions for tourists aboard the Titan to visit the wreck of the Titanic, with ticket prices reaching US$250,000 per person by 2022 [1].\nTragically, on June 18, 2023, the Titan imploded during a voyage to the Titanic wreck site, resulting in the deaths of all five individuals on board, including Stockton Rush. Following this incident, an extensive international search and rescue operation was conducted, and the wreckage was located on June 22, approximately 500 meters (1,600 ft) from the Titanic wreck site. Subsequently, on July 6, 2023, OceanGate announced the suspension of all its operations [1].\n\n# - Introduction to OceanGate and its mission in deep-sea exploration\n\n## History\n\n# - Founding and development of OceanGate since 2009\n\n# - Evolution of services and technology in submersible operations\n\n## Submersibles\n\n# - Overview of key submersibles: Titan, Cyclops 1, and Antipodes\n\n# - Specifications and capabilities of each submersible\n\n# - Materials and technologies used for structural integrity\n\n## Missions\n\n# - Key services offered by OceanGate\n\n# - Tourism: Crewed expeditions to notable underwater sites\n\n# - Research and exploration: Scientific missions and studies\n\n# - Industry applications: Underwater inspections and assessments\n\n## Safety and Regulations\n\n# - Safety measures and technological innovations in submersible design\n\n# - Compliance with environmental regulations and safety standards\n\n# - Overview of the Passenger Vessel Safety Act and ABS certification\n\n## Notable Incidents\n\n# - Overview of significant incidents, including the Titan implosion in June 2023\n\n# - Impact of incidents on operations and public perception\n\n## Future Plans\n\n# - OceanGate's vision for the future of private ocean exploration\n\n# - Addressing safety concerns and regulatory challenges for continued operations\n\n# Introduction to OceanGate and its mission in deep-sea exploration\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, founded in 2009 by Stockton Rush and Guillermo Söhnlein. The company specializes in providing crewed submersibles for various purposes, including tourism, industry, research, and exploration [1]. OceanGate's mission centers on expanding access to deep-sea environments, which it views as an underexplored frontier. The company aims to democratize deep-sea exploration by offering commercial expeditions, notably to iconic sites like the wreck of the Titanic. In 2021, OceanGate began taking paying tourists aboard its submersible Titan for these expeditions, charging approximately $250,000 per person [1]. However, the company's operations faced a tragic setback when Titan imploded during a voyage to the Titanic wreck site on June 18, 2023, resulting in the deaths of all five occupants, including Stockton Rush [1]. Following this incident, OceanGate suspended all operations on July 6, 2023, marking a significant moment in the company's history and the broader field of deep-sea exploration.\n\n# Founding and development of OceanGate since 2009\n\nOceanGate Inc. is an American privately owned company founded in 2009 by Stockton Rush and Guillermo Söhnlein, based in Everett, Washington. The company specializes in providing crewed submersibles for various purposes, including tourism, industry, research, and exploration [1]. In its early years, OceanGate acquired a submersible vessel named Antipodes and subsequently developed two of its own submersibles: Cyclops 1 and Titan. By 2021, OceanGate began offering paid expeditions for tourists aboard the Titan to explore the wreck of the Titanic, with ticket prices reaching US$250,000 per person as of 2022 [1].\nThe company aimed to address perceived barriers in the private ocean exploration market, which Rush identified as stemming from a reputation of submersibles as dangerous vehicles and stringent government regulations that stifled innovation. In 2019, Rush criticized the Passenger Vessel Safety Act of 1993 for prioritizing passenger safety over commercial innovation, asserting that certified submersibles had not experienced serious injuries or fatalities since 1974 [1]. However, on June 18, 2023, the Titan tragically imploded during a voyage to the Titanic wreck site, resulting in the deaths of all five occupants, including Rush. Following an extensive international search and rescue operation, the wreckage was located on June 22, approximately 500 meters from the Titanic site. Subsequently, on July 6, 2023, OceanGate suspended all operations [1].\n\n# Evolution of services and technology in submersible operations\n\nOceanGate Inc. has played a significant role in the evolution of submersible technology and services since its founding in 2009 by Stockton Rush and Guillermo Söhnlein. The company aimed to expand the market for private ocean exploration, addressing perceived barriers such as safety concerns and regulatory constraints that hindered innovation in the industry. OceanGate began its journey by acquiring the submersible vessel Antipodes and subsequently developed its own submersibles, including Cyclops 1 and Titan. The Titan, in particular, marked a pivotal shift in submersible operations, as it was utilized for commercial tourism expeditions to the Titanic wreck site starting in 2021, with ticket prices reaching US$250,000 per person by 2022 [1].\nRush's vision for OceanGate included challenging the notion that submersibles were inherently dangerous, a belief he attributed to their historical use in commercial diving. He argued that the stringent regulations, such as the Passenger Vessel Safety Act of 1993, prioritized passenger safety at the expense of innovation, asserting that certified submersibles had an excellent safety record since 1974 [1]. This perspective was echoed in his public statements, where he referred to submersibles as \"the safest vehicles on the planet\" [1]. However, the tragic implosion of Titan during a voyage to the Titanic wreck on June 18, 2023, which resulted in the loss of all five occupants, underscored the inherent risks associated with deep-sea exploration and led to a suspension of OceanGate's operations shortly thereafter [1].\n\n# Overview of key submersibles: Titan, Cyclops 1, and Antipodes\n\nOceanGate Inc. has developed several notable submersibles, including Titan, Cyclops 1, and Antipodes, each serving distinct purposes in the realms of exploration and tourism. The Titan, launched in 2021, was designed for deep-sea exploration, specifically to take paying tourists to the wreck of the Titanic, with ticket prices reaching US$250,000 per person [1]. Tragically, on June 18, 2023, Titan imploded during one of these voyages, resulting in the deaths of all five occupants, including OceanGate's CEO Stockton Rush [1].\nCyclops 1, another submersible developed by OceanGate, was built to facilitate various research and exploration missions, showcasing the company's commitment to advancing underwater technology [1]. Antipodes, acquired by OceanGate, further expanded their fleet and capabilities, allowing for a broader range of underwater activities [1]. The combination of these submersibles reflects OceanGate's goal to innovate within the private ocean exploration sector, despite the inherent risks associated with deep-sea travel [1].\n\n# Specifications and capabilities of each submersible\n\nOceanGate has developed several submersibles, each with distinct specifications and capabilities tailored for deep-sea exploration. The most notable of these are the Titan and Cyclops 1 submersibles.\n**Titan**: Launched in 2018, Titan is a five-person submersible designed for deep-sea exploration, capable of reaching depths of up to 4,000 meters (13,123 feet). It features a carbon fiber and titanium structure, which provides a lightweight yet robust frame, allowing for enhanced maneuverability and safety in extreme underwater conditions. Titan is equipped with advanced sonar and imaging technology, enabling high-resolution mapping and exploration of underwater sites, such as the Titanic wreck, which it began visiting in 2021 for commercial expeditions priced at $250,000 per passenger [1].\n**Cyclops 1**: This submersible, which was developed prior to Titan, is designed for a variety of applications, including research and industrial use. Cyclops 1 can accommodate a crew of three and is capable of diving to depths of approximately 1,500 meters (4,921 feet). It is primarily constructed from aluminum and is equipped with a range of scientific instruments for underwater research, including video cameras and environmental sensors [1].\nBoth submersibles reflect OceanGate's commitment to expanding the capabilities of crewed deep-sea exploration, although the tragic implosion of Titan during a 2023 expedition has raised significant concerns regarding the safety and regulation of such vehicles in the industry [1].\n\n# Materials and technologies used for structural integrity\n\nOceanGate has employed advanced materials and technologies to ensure the structural integrity of its submersibles, particularly in the extreme conditions of deep-sea environments. The company's flagship submersible, Titan, was constructed using a combination of carbon fiber and titanium, which are known for their high strength-to-weight ratios and resistance to corrosion in seawater. This composite material design allows for significant weight savings while maintaining the necessary structural strength to withstand the immense pressures found at depths of up to 3,800 meters (12,500 feet) [1].\nIn addition to material selection, OceanGate has utilized innovative engineering techniques, including a unique spherical design for the pressure vessel, which is recognized for its ability to evenly distribute stress across its surface. This design choice is critical in minimizing potential points of failure under pressure [1]. The company has also implemented rigorous testing protocols, including pressure testing and simulations, to validate the performance of its submersibles before operational deployment. These measures are part of OceanGate's commitment to enhancing safety and reliability in manned deep-sea exploration [1].\n\n# Key services offered by OceanGate\n\nOceanGate Inc. specializes in providing crewed submersible services for various sectors, including tourism, industry, research, and exploration. Founded in 2009, the company has developed a reputation for offering unique underwater experiences, notably through its expeditions to the Titanic wreck site. In 2021, OceanGate began taking paying tourists aboard its submersible, Titan, for dives to the Titanic, with ticket prices reaching up to $250,000 per person as of 2022 [1]. The company also constructed its own submersibles, including Cyclops 1 and Titan, to facilitate these explorations. Beyond tourism, OceanGate's submersibles are utilized for industrial applications and scientific research, aiming to expand the market for private ocean exploration [1].\n\n# Tourism: Crewed expeditions to notable underwater sites\n\nOceanGate Inc. has been a pioneer in the field of underwater tourism, offering crewed submersible expeditions to some of the world's most notable underwater sites, including the wreck of the Titanic. Founded in 2009 by Stockton Rush and Guillermo Söhnlein, the company aimed to make deep-sea exploration accessible to paying tourists. In 2021, OceanGate began its commercial operations with the submersible Titan, allowing passengers to experience the Titanic wreck firsthand for a fee of approximately US$250,000 per person [1]. The Titan was designed to accommodate five occupants, providing a unique opportunity for adventure seekers to explore the depths of the North Atlantic Ocean where the Titanic sank in 1912. However, the company's operations faced a tragic turn when the Titan imploded during a voyage to the Titanic wreck site on June 18, 2023, resulting in the loss of all five individuals aboard, including Stockton Rush [1]. Following this incident, OceanGate suspended all operations on July 6, 2023, marking a significant moment in the history of underwater tourism [1].\n\n# Research and exploration: Scientific missions and studies\n\nOceanGate Inc. has been involved in various scientific missions and studies, utilizing its submersibles to explore underwater environments and gather data for research purposes. The company's submersibles, including Titan and Cyclops 1, have been deployed for expeditions that contribute to marine science, archaeology, and environmental monitoring. Notably, OceanGate's expeditions to the Titanic wreck site have provided valuable insights into the condition of the wreck and the surrounding ecosystem, allowing researchers to study the effects of deep-sea conditions on historical artifacts and marine life [1].\nIn addition to its commercial tourism operations, OceanGate has collaborated with academic institutions and research organizations to facilitate scientific research. These partnerships aim to enhance the understanding of deep-sea environments, including biodiversity assessments and the impact of human activity on marine ecosystems. The company's commitment to innovation in submersible technology has also opened new avenues for exploration, enabling scientists to access previously unreachable depths and collect data that can inform conservation efforts and policy decisions [1].\n\n# Industry applications: Underwater inspections and assessments\n\nOceanGate has positioned itself as a key player in the field of underwater inspections and assessments, leveraging its advanced submersible technology for various industrial applications. The company's submersibles, including the Titan and Cyclops 1, are designed to conduct detailed inspections of underwater infrastructure such as pipelines, oil rigs, and shipwrecks, providing critical data that can enhance safety and operational efficiency in marine environments [1].\nIn addition to commercial inspections, OceanGate's submersibles have been utilized for scientific research and exploration, allowing researchers to access previously unreachable depths and gather valuable information about marine ecosystems [1]. The company's focus on innovation has sparked discussions about the balance between safety regulations and technological advancement in the submersible industry. Founder Stockton Rush has argued that stringent regulations, such as the Passenger Vessel Safety Act of 1993, may hinder progress by prioritizing passenger safety over commercial innovation [1]. This perspective reflects a broader debate within the industry regarding the need for regulatory frameworks that both ensure safety and encourage the development of new technologies for underwater exploration and assessment [1].\n\n# Safety measures and technological innovations in submersible design\n\nOceanGate has emphasized safety measures and technological innovations in its submersible designs to enhance the safety and reliability of deep-sea exploration. The company's founder, Stockton Rush, has argued that the submersible industry has been hindered by a reputation for danger, largely due to its association with commercial diving operations and stringent regulatory frameworks that he believes stifle innovation. He has stated that since 1974, there have been no serious injuries or fatalities on American Bureau of Shipping (ABS) certified passenger submersibles, which he claims are among the safest vehicles available for exploration [1]. Rush has also referred to submersibles as \"the safest vehicles on the planet\" during his presentations, highlighting the advancements made in design and safety protocols [1].\nIn addition to advocating for regulatory reform, OceanGate has incorporated cutting-edge technology into its submersibles, such as the Titan, which features advanced materials and design techniques aimed at withstanding the extreme pressures of deep-sea environments. This focus on innovation is intended to not only improve safety but also to expand the possibilities for private ocean exploration [1].\n\n# Compliance with Environmental Regulations and Safety Standards\n\nOceanGate Inc., founded in 2009, has been involved in the development and operation of crewed submersibles for various purposes, including tourism and exploration. The company has faced scrutiny regarding its compliance with environmental regulations and safety standards, particularly following the tragic implosion of its submersible Titan in June 2023, which resulted in the loss of all five occupants onboard [1].\nStockton Rush, the company's CEO, has previously expressed concerns about existing regulations, suggesting that they inhibit innovation within the submersible industry. In 2019, he criticized the Passenger Vessel Safety Act of 1993 for prioritizing passenger safety over commercial innovation, arguing that such regulations contributed to a perception of submersibles as dangerous vehicles [1]. Despite these assertions, OceanGate has maintained that its vessels are designed with safety as a priority, claiming that there have been no serious injuries or fatalities on ABS-certified passenger submersibles since 1974 [1].\nHowever, the incident involving Titan has raised questions about the adequacy of safety measures and regulatory compliance within the company. Following the disaster, OceanGate suspended all operations, prompting discussions about the need for stricter oversight and adherence to safety standards in the submersible tourism industry [1].\n\n# Overview of the Passenger Vessel Safety Act and ABS Certification\n\nThe Passenger Vessel Safety Act (PVSA) of 1993 was enacted to enhance safety standards for passenger vessels, including submersibles, operating in U.S. waters. This legislation emphasizes the importance of passenger safety, which some industry leaders, including OceanGate's CEO Stockton Rush, argue can stifle innovation in the field of ocean exploration. Rush has publicly criticized the PVSA for \"needlessly prioritizing passenger safety over commercial innovation,\" suggesting that such regulations may hinder advancements in submersible technology and exploration capabilities [1].\nOceanGate has sought certification from the American Bureau of Shipping (ABS), a recognized authority in maritime safety, to validate the safety and operational standards of its submersibles. According to OceanGate, since 1974, there have been no serious injuries or fatalities on ABS-certified passenger submersibles, which they claim underscores the safety of certified vessels compared to non-certified ones [1]. This assertion is bolstered by historical incidents, including a fatality involving a homemade submersible in 1990, which highlights the risks associated with unregulated submersible operations [1].\n\n# Overview of significant incidents, including the Titan implosion in June 2023\n\nOceanGate Inc., founded in 2009, is known for its crewed submersibles designed for various purposes, including tourism and exploration. One of its most notable submersibles, Titan, was utilized for expeditions to the Titanic wreck site, charging passengers approximately $250,000 for the experience [1]. However, the company faced a tragic incident on June 18, 2023, when Titan imploded during a dive to the Titanic wreck, resulting in the deaths of all five individuals aboard, including OceanGate's CEO, Stockton Rush [1]. Following the incident, an extensive international search and rescue operation was initiated, ultimately locating the wreckage on June 22, 2023, approximately 500 meters from the Titanic site [1]. In the aftermath of the disaster, OceanGate suspended all operations on July 6, 2023, marking a significant turning point for the company and raising questions about safety protocols in the submersible tourism industry [1].\n\n# Impact of incidents on operations and public perception\n\nThe tragic implosion of the Titan submersible on June 18, 2023, which resulted in the deaths of all five occupants, including OceanGate's CEO Stockton Rush, had a profound impact on the company's operations and public perception. Following the incident, OceanGate suspended all operations on July 6, 2023, as the company faced intense scrutiny regarding safety protocols and the regulatory framework governing submersible tourism [1]. Prior to the incident, OceanGate had positioned itself as a pioneer in private ocean exploration, promoting its submersibles as safe and innovative alternatives for deep-sea tourism. However, the disaster significantly undermined this narrative, leading to widespread criticism of the company's safety practices and its approach to regulatory compliance [1].\nPublic perception shifted dramatically, with many questioning the wisdom of submersible tourism and the adequacy of safety measures in place for such high-risk ventures. The incident sparked a broader discussion about the need for stricter regulations and oversight in the industry, particularly concerning the safety of uncrewed and crewed submersibles [1]. As a result, OceanGate's future plans may involve reevaluating its operational protocols and enhancing safety measures to restore public trust and ensure compliance with evolving regulatory standards.\n\n# OceanGate's vision for the future of private ocean exploration\n\nOceanGate Inc. envisions a transformative future for private ocean exploration, aiming to democratize access to the deep sea through innovative submersible technology. Founded in 2009 by Stockton Rush and Guillermo Söhnlein, the company has positioned itself at the forefront of this emerging industry by addressing perceived barriers to entry, such as safety concerns and regulatory constraints. Rush has articulated that the private ocean exploration market has been stifled by an unwarranted fear of submersibles, which he argues are among the safest vehicles available, citing that there have been no serious injuries or fatalities on American Bureau of Shipping (ABS) certified passenger submersibles since 1974 [1].\nOceanGate's vision includes expanding the market for deep-sea tourism and research, exemplified by its expeditions to the Titanic wreck site, where passengers could experience the ocean's depths for a fee of $250,000 per person [1]. However, the tragic implosion of the Titan submersible in June 2023, which resulted in the loss of all five occupants, has raised significant questions about safety and regulatory oversight in the industry [1]. Despite this setback, OceanGate's commitment to innovation remains strong, with Rush previously advocating for a shift in regulatory frameworks that prioritize commercial innovation alongside safety [1]. The company aims to continue its mission of making the ocean more accessible, fostering a new era of exploration that combines adventure with scientific inquiry.\n\n# Addressing safety concerns and regulatory challenges for continued operations\n\nOceanGate Inc. has faced significant scrutiny regarding safety concerns and regulatory challenges, particularly following the tragic implosion of its submersible Titan on June 18, 2023, which resulted in the deaths of all five occupants, including the company's CEO, Stockton Rush. This incident prompted an international search and rescue operation, and subsequently, OceanGate suspended all operations on July 6, 2023, to reassess its safety protocols and operational practices [1].\nThe company was founded with the vision of expanding private ocean exploration, which Rush believed was hindered by an exaggerated perception of the dangers associated with submersibles and stringent government regulations that he felt stifled innovation. In 2019, Rush publicly criticized the Passenger Vessel Safety Act of 1993, arguing that it \"needlessly prioritized passenger safety over commercial innovation\" [1]. He maintained that submersibles, particularly those certified by the American Bureau of Shipping (ABS), had an excellent safety record, asserting that there had been no serious injuries or fatalities on ABS-certified passenger submersibles since 1974 [1].\nDespite these claims, the Titan incident has raised questions about the adequacy of existing safety measures and the regulatory framework governing submersible operations. In the aftermath, OceanGate is expected to face increased scrutiny from regulatory bodies and the public, necessitating a comprehensive review of its safety protocols and operational standards to restore confidence in its ability to conduct safe expeditions [1].",
+  "polished_article": "# summary\n\nOceanGate Inc. is an American company based in Everett, Washington, specializing in crewed submersibles for tourism, research, and exploration since its founding in 2009 by Stockton Rush and Guillermo Söhnlein. The company gained notoriety for its expeditions to the Titanic wreck site aboard its submersible Titan, which tragically imploded during a voyage in June 2023, resulting in the deaths of all five occupants. Following this incident, OceanGate suspended all operations, raising significant concerns about safety and regulatory practices in the submersible tourism industry.\n\n# Overview\n\nOceanGate Inc. is an American privately owned company based in Everett, Washington, that specializes in providing crewed submersibles for tourism, industry, research, and exploration. Founded in 2009 by Stockton Rush and Guillermo Söhnlein, the company initially acquired a submersible vessel named Antipodes and later developed its own models, including Cyclops 1 and Titan. In 2021, OceanGate began offering paid expeditions for tourists aboard the Titan to visit the wreck of the Titanic, with ticket prices reaching US$250,000 per person by 2022 [1]. Tragically, on June 18, 2023, the Titan imploded during a voyage to the Titanic wreck site, resulting in the deaths of all five individuals on board, including Stockton Rush. Following this incident, an extensive international search and rescue operation was conducted, and the wreckage was located on June 22, approximately 500 meters (1,600 ft) from the Titanic wreck site. Subsequently, on July 6, 2023, OceanGate announced the suspension of all its operations [1].\n\n# Introduction to OceanGate and its mission in deep-sea exploration\n\nOceanGate Inc. is an American privately owned company founded in 2009 by Stockton Rush and Guillermo Söhnlein. The company specializes in providing crewed submersibles for various purposes, including tourism, industry, research, and exploration [1]. OceanGate's mission centers on expanding access to deep-sea environments, which it views as an underexplored frontier. The company aims to democratize deep-sea exploration by offering commercial expeditions, notably to iconic sites like the wreck of the Titanic. However, the company's operations faced a tragic setback when Titan imploded during a voyage to the Titanic wreck site on June 18, 2023, resulting in the deaths of all five occupants, including Stockton Rush [1]. Following this incident, OceanGate suspended all operations on July 6, 2023, marking a significant moment in the company's history and the broader field of deep-sea exploration.\n\n# Founding and development of OceanGate since 2009\n\nOceanGate Inc. is an American privately owned company founded in 2009 by Stockton Rush and Guillermo Söhnlein, based in Everett, Washington. The company specializes in providing crewed submersibles for various purposes, including tourism, industry, research, and exploration [1]. In its early years, OceanGate acquired a submersible vessel named Antipodes and subsequently developed two of its own submersibles: Cyclops 1 and Titan. By 2021, OceanGate began offering paid expeditions for tourists aboard the Titan to explore the wreck of the Titanic, with ticket prices reaching US$250,000 per person as of 2022 [1]. The company aimed to address perceived barriers in the private ocean exploration market, which Rush identified as stemming from a reputation of submersibles as dangerous vehicles and stringent government regulations that stifled innovation. However, on June 18, 2023, the Titan tragically imploded during a voyage to the Titanic wreck site, resulting in the deaths of all five occupants, including Rush. Following an extensive international search and rescue operation, the wreckage was located on June 22, approximately 500 meters from the Titanic site. Subsequently, on July 6, 2023, OceanGate suspended all operations [1].\n\n# Evolution of services and technology in submersible operations\n\nOceanGate Inc. has played a significant role in the evolution of submersible technology and services since its founding in 2009. The company aimed to expand the market for private ocean exploration, addressing perceived barriers such as safety concerns and regulatory constraints that hindered innovation in the industry. OceanGate began its journey by acquiring the submersible vessel Antipodes and subsequently developed its own submersibles, including Cyclops 1 and Titan. The Titan, in particular, marked a pivotal shift in submersible operations, as it was utilized for commercial tourism expeditions to the Titanic wreck site starting in 2021, with ticket prices reaching US$250,000 per person by 2022 [1]. Rush's vision for OceanGate included challenging the notion that submersibles were inherently dangerous, a belief he attributed to their historical use in commercial diving. However, the tragic implosion of Titan during a voyage to the Titanic wreck on June 18, 2023, which resulted in the loss of all five occupants, underscored the inherent risks associated with deep-sea exploration and led to a suspension of OceanGate's operations shortly thereafter [1].\n\n# Overview of key submersibles: Titan, Cyclops 1, and Antipodes\n\nOceanGate Inc. has developed several notable submersibles, including Titan, Cyclops 1, and Antipodes, each serving distinct purposes in the realms of exploration and tourism. The Titan, launched in 2021, was designed for deep-sea exploration, specifically to take paying tourists to the wreck of the Titanic, with ticket prices reaching US$250,000 per person [1]. Tragically, on June 18, 2023, Titan imploded during one of these voyages, resulting in the deaths of all five occupants, including OceanGate's CEO Stockton Rush [1]. Cyclops 1, another submersible developed by OceanGate, was built to facilitate various research and exploration missions, showcasing the company's commitment to advancing underwater technology [1]. Antipodes, acquired by OceanGate, further expanded their fleet and capabilities, allowing for a broader range of underwater activities [1]. The combination of these submersibles reflects OceanGate's goal to innovate within the private ocean exploration sector, despite the inherent risks associated with deep-sea travel [1].\n\n# Specifications and capabilities of each submersible\n\nOceanGate has developed several submersibles, each with distinct specifications"
+}
