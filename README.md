@@ -80,3 +80,49 @@ These are not the original paper's exact 4.4 metric outputs. They are lightweigh
 
 - This repository intentionally stores only the minimal comparison scripts and summary, not full source copies of both upstream projects.
 - The scripts assume access to the local source workspaces used during development.
+
+## Suggested experiment tables
+
+### Table 1. Method comparison
+
+Use the same model and the same retriever setting for both systems.
+
+| System | Model | Retriever | Dataset | Heading Soft Recall | Heading Entity Recall | Notes |
+|---|---|---|---|---:|---:|---|
+| STORM | gpt-4o-mini | local FreshWiki text | FreshWiki subset |  |  | baseline |
+| storm-langgraph | gpt-4o-mini | local FreshWiki text | FreshWiki subset |  |  | ours |
+
+### Table 2. Model ablation
+
+Use the same system while changing only the model.
+
+| System | Model | Heading Soft Recall | Heading Entity Recall | Notes |
+|---|---|---:|---:|---|
+| STORM | gpt-4o-mini |  |  |  |
+| STORM | gpt-4o |  |  |  |
+| storm-langgraph | gpt-4o-mini |  |  |  |
+| storm-langgraph | gpt-4o |  |  |  |
+
+### Single-topic tracking table
+
+Useful before scaling to a multi-topic benchmark.
+
+| Topic | System | Model | Article Chars | Retrieved Items | Heading Soft Recall | Heading Entity Recall |
+|---|---|---|---:|---:|---:|---:|
+| Taylor Hawkins | STORM | current | 9293 | 108 |  |  |
+| Taylor Hawkins | storm-langgraph | current | 6493 | 18 |  |  |
+
+### Important evaluation note
+
+For strict method comparison:
+
+- fix the model
+- fix the retriever
+- fix the dataset
+
+For model comparison:
+
+- fix the system
+- change only the model
+
+Current `Taylor_Hawkins` outline scores in this repository are marked as proxy metrics rather than the paper's exact metric outputs.
