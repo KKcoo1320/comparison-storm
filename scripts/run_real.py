@@ -43,7 +43,15 @@ def _serialize_state(state):
 async def main():
     topic = os.environ.get("STORM_LANGGRAPH_TOPIC", "STORM")
     retriever_name = os.environ.get("STORM_LANGGRAPH_RETRIEVER", "you").lower()
-    config = StormGraphConfig(max_perspective=2, max_conv_turn=2)
+    default_config = StormGraphConfig()
+    config = StormGraphConfig(
+        max_perspective=int(
+            os.environ.get("STORM_LANGGRAPH_MAX_PERSPECTIVE", default_config.max_perspective)
+        ),
+        max_conv_turn=int(
+            os.environ.get("STORM_LANGGRAPH_MAX_CONV_TURN", default_config.max_conv_turn)
+        ),
+    )
     llm = OpenAICompatLLM()
     if retriever_name == "duckduckgo":
         retriever = DuckDuckGoRetriever(k=config.search_top_k)

@@ -18,6 +18,8 @@ Minimal comparison workspace for running original STORM and a LangGraph-based ST
   - A lightweight proxy evaluation for outline quality on `Taylor_Hawkins`.
 - `results/freshwiki_5_summary.md`
   - A 5-topic comparison summary covering both original STORM and `storm-langgraph`.
+- `results/freshwiki_5_paper_style_tables.md`
+  - A paper-style summary table using the official FreshWiki outline metrics.
 - `results/freshwiki_5/`
   - Raw outputs for the 5-topic FreshWiki batch from both systems.
 
@@ -34,8 +36,11 @@ The current multi-topic batch covers:
 Entry points:
 
 - Summary: `results/freshwiki_5_summary.md`
+- Paper-style tables: `results/freshwiki_5_paper_style_tables.md`
 - Original STORM outputs: `results/freshwiki_5/storm/`
 - `storm-langgraph` outputs: `results/freshwiki_5/storm_langgraph/`
+- Original STORM outline metrics: `results/freshwiki_5/storm_outline_quality.csv`
+- `storm-langgraph` outline metrics: `results/freshwiki_5/storm_langgraph_outline_quality.csv`
 
 Current high-level result:
 
