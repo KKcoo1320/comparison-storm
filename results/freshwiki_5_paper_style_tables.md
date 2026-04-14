@@ -20,6 +20,21 @@ Evaluation scope:
 | Original STORM | 96.11 | 56.67 |
 | storm-langgraph | 85.30 | 36.67 |
 
+## Rerun Confirmation
+
+The official outline evaluation was rerun on April 14, 2026 against:
+
+- prediction directory: `/Users/wangbozhi/Documents/New project/storm_user_repo/storm_langgraph/real_output_batch`
+- prediction file: `storm_gen_outline.txt`
+- metric script: `/Users/wangbozhi/Documents/New project/storm_upstream_naacl/eval/eval_outline_quality.py`
+
+The rerun reproduced the same average scores:
+
+- `Average Entity Recall: 0.36666666666666664`
+- `Average Heading Soft Recall: 0.8530395269393921`
+
+This confirms that the current `storm-langgraph` outline benchmark gap is due to the generation pipeline rather than metric mismatch or one-off evaluation noise.
+
 ## Per-topic Outline Quality
 
 | Topic | System | Heading Soft Recall | Heading Entity Recall |
@@ -39,6 +54,7 @@ Evaluation scope:
 
 - Original STORM outline metrics: `/Users/wangbozhi/Documents/New project/comparison-storm/results/freshwiki_5/storm_outline_quality.csv`
 - storm-langgraph outline metrics: `/Users/wangbozhi/Documents/New project/comparison-storm/results/freshwiki_5/storm_langgraph_outline_quality.csv`
+- storm-langgraph rerun outline metrics: `/Users/wangbozhi/Documents/New project/comparison-storm/results/freshwiki_5/storm_langgraph_outline_quality_rerun.csv`
 
 ## Important Note
 
