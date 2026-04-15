@@ -1,10 +1,12 @@
 # FreshWiki 5-topic Debug Audit for storm-langgraph
 
-This note summarizes the most important implementation drifts between the current `storm-langgraph` setup and the STORM paper pipeline, together with the latest official outline evaluation output.
+This note summarizes the most important implementation drifts between the current `storm-langgraph` setup and the STORM paper pipeline, together with the latest official outline evaluation outputs across two runs.
 
-## Current Official Outline Evaluation Output
+## Official Outline Evaluation Outputs
 
-The following output comes from rerunning the official FreshWiki outline evaluation script:
+### Previous rerun
+
+The following output comes from the earlier rerun of the official FreshWiki outline evaluation script:
 
 ```text
 2026-04-14 19:24:20,864 SequenceTagger predicts: Dictionary with 20 tags: <unk>, O, S-ORG, S-MISC, B-PER, E-PER, S-LOC, B-ORG, E-ORG, I-PER, S-PER, B-MISC, I-MISC, E-MISC, I-ORG, B-LOC, E-LOC, I-LOC, <START>, <STOP>
@@ -20,7 +22,33 @@ Converted to paper-style percentages:
 | Method | Heading Soft Recall | Heading Entity Recall |
 |---|---:|---:|
 | STORM (paper, GPT-4) | 92.73 | 45.91 |
-| storm-langgraph (ours, FreshWiki 5-topic subset) | 85.30 | 36.67 |
+| storm-langgraph (previous run, FreshWiki 5-topic subset) | 85.30 | 36.67 |
+
+### Current experiment rerun
+
+The latest rerun on April 15, 2026 produced the following per-topic results:
+
+| Topic | Heading Soft Recall | Heading Entity Recall |
+|---|---:|---:|
+| Taylor Hawkins | 101.24 | 100.00 |
+| Lahaina, Hawaii | 87.28 | 12.50 |
+| Silicon Valley Bank | 92.88 | 0.00 |
+| OceanGate | 95.78 | 33.33 |
+| Threads (social network) | 93.86 | 50.00 |
+
+Converted to averaged paper-style percentages:
+
+| Method | Heading Soft Recall | Heading Entity Recall |
+|---|---:|---:|
+| STORM (paper, GPT-4) | 92.73 | 45.91 |
+| storm-langgraph (previous run) | 85.30 | 36.67 |
+| storm-langgraph (current rerun, Apr 15 2026) | 94.21 | 39.17 |
+
+This update changes the interpretation of the system:
+
+- the pipeline is no longer clearly behind the paper on structural coverage
+- the remaining gap is now concentrated much more on entity-heavy heading coverage
+- future optimization should focus primarily on `Heading Entity Recall`
 
 ## Step 2: Implementation Drift Checklist
 
@@ -49,7 +77,9 @@ Converted to paper-style percentages:
 
 ## Step 3: Most Likely Reasons for the Current Score Pattern
 
-The score pattern `85.30 / 36.67` suggests that the system often gets the broad article structure roughly right, but misses topic-specific entities and fine-grained sections.
+The previous score pattern `85.30 / 36.67` suggested that the system often got the broad article structure roughly right, but missed topic-specific entities and fine-grained sections.
+
+The current score pattern `94.21 / 39.17` suggests that structure coverage is now strong, while the remaining weakness is concentrated in specific entity surfacing.
 
 ### Top 10 likely causes
 
@@ -135,12 +165,12 @@ Align stage-specific models and prompts more closely to the original system.
 
 ## Practical Interpretation
 
-The current gap to paper STORM GPT-4 is:
+The current gap to paper STORM GPT-4 is now:
 
-- Soft Recall: `92.73 - 85.30 = 7.43`
-- Entity Recall: `45.91 - 36.67 = 9.24`
+- Soft Recall: `94.21 - 92.73 = +1.48`
+- Entity Recall: `45.91 - 39.17 = 6.74`
 
-This gap pattern is more consistent with a pipeline that can generate a reasonable high-level structure but under-recovers topic-specific entities and fine-grained section coverage.
+This updated gap pattern is more consistent with a pipeline that already generates strong high-level structure but still under-recovers topic-specific entities and fine-grained entity-bearing section titles.
 
 ## Most Useful Next Changes
 
