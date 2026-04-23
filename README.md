@@ -35,12 +35,14 @@ The current multi-topic batch covers:
 
 Entry points:
 
+- Input text subset: `data/freshwiki_5_txt/`
 - Summary: `results/freshwiki_5_summary.md`
 - Paper-style tables: `results/freshwiki_5_paper_style_tables.md`
 - Original STORM outputs: `results/freshwiki_5/storm/`
 - `storm-langgraph` outputs: `results/freshwiki_5/storm_langgraph/`
 - Original STORM outline metrics: `results/freshwiki_5/storm_outline_quality.csv`
 - `storm-langgraph` outline metrics: `results/freshwiki_5/storm_langgraph_outline_quality.csv`
+- `storm-langgraph` article auto metrics: `results/freshwiki_5/storm_langgraph_article_auto_metrics.csv`
 
 Current high-level result:
 
